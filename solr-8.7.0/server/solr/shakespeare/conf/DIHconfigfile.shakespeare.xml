@@ -40,5 +40,31 @@
 
     </entity>
 
+
+    <entity name="sonnets" processor="FileListEntityProcessor"
+            fileName="sonnets_Q1.xml"
+            recursive="true"
+            rootEntity="false"
+            dataSource="null"
+            baseDir="../../PlayShakespeare.com-XML/quarto_otherfolio_editions/" >
+
+      <entity name="shakespeare"
+              url="${sonnets.fileAbsolutePath}"
+              stream="true"
+              processor="XPathEntityProcessor"
+              forEach="/poem/sonnets/sonnet/quatrain/line|/poem/sonnets/sonnet/couplet/line"
+              transformer="HTMLStripTransformer,RegexTransformer">
+
+        <field column="line" xpath="/poem/sonnets/sonnet/quatrain/line"/>
+        <field column="sonnet_number" xpath="/poem/sonnets/sonnet/@id"/>
+        <field column="globalnumber" xpath="/poem/sonnets/sonnet/quatrain/line/@globalnumber"/>
+        <field column="line_number" xpath="/poem/sonnets/sonnet/quatrain/line/@number"/>  
+
+         
+
+      </entity>
+
+    </entity>
+
   </document>
 </dataConfig>
