@@ -1,3 +1,9 @@
+# apache solr
+
+download here: https://www.apache.org/dyn/closer.lua/lucene/solr/8.7.0/solr-8.7.0.tgz
+
+bin/solr create -c shakespeare
+
 # ShakeSearch
 
 Welcome to the Pulley Shakesearch Take-home Challenge! In this repository,

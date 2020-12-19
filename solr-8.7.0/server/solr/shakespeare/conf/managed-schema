@@ -456,10 +456,10 @@
 
   <field name="play_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="category" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  <field name="act" type="plongs" uninvertible="true" indexed="true" stored="true"/>
+  <field name="act" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="act_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  <field name="actnum" type="plongs" uninvertible="true" indexed="true" stored="true"/>
-  <field name="scene_num" type="plongs" uninvertible="true" indexed="true" stored="true"/>
+  <field name="actnum" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="scene_num" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="scenetitle" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   
   <field name="line" type="text_en" uninvertible="true" indexed="true" stored="true"/>
@@ -467,10 +467,10 @@
   <field name="speaker" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="speaker_long" type="text_en" uninvertible="true" indexed="true" stored="true"/>
 
-  <field name="globalnumber" type="plongs" uninvertible="true" indexed="true" stored="true"/>
-  <field name="line_number" type="plongs" uninvertible="true" indexed="true" stored="true"/>
+  <field name="globalnumber" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="line_number" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="form" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  <field name="offset" type="plongs" uninvertible="true" indexed="true" stored="true"/>
+  <field name="offset" type="plong" uninvertible="true" indexed="true" stored="true"/>
 
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
