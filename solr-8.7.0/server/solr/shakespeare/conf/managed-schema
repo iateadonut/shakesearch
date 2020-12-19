@@ -452,7 +452,7 @@
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
   <field name="act" type="plong" uninvertible="true" indexed="true" stored="true"/>
-  <field name="act_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
+  <field name="acttitle" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="actnum" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="category" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="form" type="text_en" uninvertible="true" indexed="true" stored="true"/>
@@ -467,6 +467,10 @@
   <field name="speaker" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="speaker_long" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="sonnet_number" type="plong" uninvertible="true" indexed="true" stored="true"/>
+
+  <field name="poem_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
+  <field name="stanza_id" type="plong" uninvertible="true" indexed="true" stored="true"/>
+
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>

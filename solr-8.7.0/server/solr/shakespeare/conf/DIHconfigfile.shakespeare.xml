@@ -52,15 +52,44 @@
               url="${sonnets.fileAbsolutePath}"
               stream="true"
               processor="XPathEntityProcessor"
-              forEach="/poem/sonnets/sonnet/quatrain/line|/poem/sonnets/sonnet/couplet/line"
+              forEach="/poem/sonnets/sonnet|/poem/sonnets/sonnet/quatrain/line|/poem/sonnets/sonnet/couplet/line"
               transformer="HTMLStripTransformer,RegexTransformer">
 
-        <field column="line" xpath="/poem/sonnets/sonnet/quatrain/line"/>
+        <field column="line" xpath="/poem/sonnets/sonnet/couplet/line" />
+        <field column="line" xpath="/poem/sonnets/sonnet/quatrain/line" />
         <field column="sonnet_number" xpath="/poem/sonnets/sonnet/@id"/>
         <field column="globalnumber" xpath="/poem/sonnets/sonnet/quatrain/line/@globalnumber"/>
+        <field column="globalnumber" xpath="/poem/sonnets/sonnet/couplet/line/@globalnumber"/>
         <field column="line_number" xpath="/poem/sonnets/sonnet/quatrain/line/@number"/>  
+        <field column="line_number" xpath="/poem/sonnets/sonnet/couplet/line/@number"/>
 
-         
+      </entity>
+
+    </entity>
+
+
+    <entity name="poems" processor="FileListEntityProcessor"
+            fileName=".*_Q1.xml"
+            recursive="true"
+            rootEntity="false"
+            dataSource="null"
+            baseDir="../../PlayShakespeare.com-XML/quarto_otherfolio_editions/" >
+
+      <entity name="shakespeare"
+              url="${poems.fileAbsolutePath}"
+              stream="true"
+              processor="XPathEntityProcessor"
+              forEach="/poem|/poem/poembody/stanza/line|/poem/poembody/stanza/couplet/line|/poem/poembody/stanza/quatrain/line"
+              transformer="HTMLStripTransformer,RegexTransformer">
+
+        <field column="line" xpath="/poem/poembody/stanza/line" />
+        <field column="line" xpath="/poem/poembody/stanza/couplet/line" />
+        <field column="line" xpath="/poem/poembody/stanza/quatrain/line" />
+
+        <field column="stanza_id" xpath="/poem/poembody/stanza/@id" />
+
+        <field column="poem_title" xpath="/poem/title/@short" />
+        
 
       </entity>
 
