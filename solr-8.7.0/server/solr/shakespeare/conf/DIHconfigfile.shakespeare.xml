@@ -1,9 +1,11 @@
 <dataConfig>
-  <dataSource type="FileDataSource"/>
+  <dataSource type="FileDataSource"
+    basePath="../../PlayShakespeare.com-XML/playshakespeare_editions/"
+  />
   <document>
 
     <entity name="shakespeare"
-            url="/home/dan/go/src/github.com/ProlificLabs/shakesearch/PlayShakespeare.com-XML/playshakespeare_editions/ps_alls_well_that_ends_well.xml"
+            url="ps_alls_well_that_ends_well.xml"
             stream="true"
             processor="XPathEntityProcessor"
             forEach="/play|/play/act|/play/act/scene/speech/line"
