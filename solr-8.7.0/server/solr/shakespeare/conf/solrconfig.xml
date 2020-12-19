@@ -35,6 +35,9 @@
        that you fully re-index after changing this setting as it can
        affect both how text is indexed and queried.
   -->
+
+    
+
   <luceneMatchVersion>8.7.0</luceneMatchVersion>
 
   <!-- <lib/> directives can be used to instruct Solr to load any Jars
@@ -81,6 +84,11 @@
   <!--
      <lib path="../a-jar-that-does-not-exist.jar" />
   -->
+
+  <lib dir="../../../dist/" regex="solr-dataimporthandler-.*\.jar" />
+
+
+
 
   <!-- Data Directory
 
@@ -760,6 +768,15 @@
        not be initialized until the first request that uses it.
 
     -->
+
+
+  <requestHandler name="/dataimport" class="org.apache.solr.handler.dataimport.DataImportHandler">
+    <lst name="defaults">
+      <str name="config">DIHconfigfile.shakespeare.xml</str>
+    </lst>
+  </requestHandler>
+
+
   <!-- SearchHandler
 
        http://wiki.apache.org/solr/SearchHandler
