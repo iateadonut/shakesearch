@@ -1,0 +1,33 @@
+<dataConfig>
+  <dataSource type="FileDataSource"/>
+  <document>
+
+    <entity name="shakespeare"
+            url="/home/dan/go/src/github.com/ProlificLabs/shakesearch/PlayShakespeare.com-XML/playshakespeare_editions/ps_alls_well_that_ends_well.xml"
+            stream="true"
+            processor="XPathEntityProcessor"
+            forEach="/play|/play/act|/play/act/scene/speech/line"
+            transformer="HTMLStripTransformer,RegexTransformer">
+
+      <field column="play_title" xpath="/play/title"/>
+      <field column="category" xpath="/play/statistics/category/"/>
+      <field column="act" xpath="/play/act/@num"/>
+      <field column="acttitle" xpath="/play/act/acttitle"/>
+      <field column="actnum" xpath="/play/act/scene/@actnum"/>
+      <field column="scene_num" xpath="/play/act/scene/@num"/>
+      <field column="scenetitle" xpath="/play/act/scene/scenetitle"/>
+
+      <field column="line" xpath="/play/act/scene/speech/line"/>
+
+      <field column="speaker" xpath="/play/act/scene/speech/speaker"/>
+      <field column="speaker_long" xpath="/play/act/scene/speech/speaker/@long"/>
+
+      <field column="globalnumber" xpath="/play/act/scene/speech/line/@globalnumber"/>
+      <field column="line_number" xpath="/play/act/scene/speech/line/@number"/>
+      <field column="form" xpath="/play/act/scene/speech/line/@form"/>
+      <field column="offset" xpath="/play/act/scene/speech/line/@offset"/>
+
+    </entity>
+
+  </document>
+</dataConfig>
