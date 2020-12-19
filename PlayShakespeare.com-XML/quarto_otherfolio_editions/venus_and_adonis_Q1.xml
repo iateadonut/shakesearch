@@ -1,0 +1,2197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../../plays.xsl"?>
+
+<poem variant="first-quarto" unique="venus-and-adonis">
+<title short="Venus and Adonis">VENVS<lb/>AND ADONIS</title>
+<playwright>William Shake&#383;peare</playwright>
+
+<poemintro>
+<intro>
+<line><latin lang="la">Vilia miretur vulgus: mihi &#64258;auus Apollo</latin></line>
+<line><latin lang="la">Pocula Ca&#383;talia plena mini&#383;tret aqua.</latin></line>
+</intro>
+
+<dedtitle>TO THE RIGHT HONORABLE</dedtitle>
+<dedsubtitle>Henrie VVriothe&#383;ley, Earle of Southampton, and Baron of Titch&#64257;eld.</dedsubtitle>
+
+<dedication>
+<line order="first"><dropcap type="floral-large">R</dropcap>ight Honourable, I know not how I shall offend in</line> 
+<line order="second">dedicating my vnpolisht lines to your Lordship, nor</line>
+<line order="third">how the worlde vvill cen&#383;ure mee for choo&#383;ing &#383;o</line>
+<line order="fourth">&#383;trong a proppe to &#383;upport &#383;o vveake a burthen,</line>
+<line order="fifth">onelye if your Honour &#383;eeme but plea&#383;ed, I ac-</line>
+<line>count my &#383;elfe highly prai&#383;ed, and vowe to take aduantage of all</line>
+<line>idle houres, till I haue honoured you vvith &#383;ome grauer labour. But</line>
+<line>if the &#64257;r&#383;t heire of my inuention proue deformed, I &#383;hall be &#383;orie it</line>
+<line>had &#383;o noble a god-father: and neuer a&#64261;er eare &#383;o barren a land,</line>
+<line>for feare it yeeld me &#383;till &#383;o bad a harue&#383;t, I leaue it to your Honou-</line>
+<line>rable &#383;uruey, and your Honor to your hearts content vvhich I wi&#383;h</line>
+<line>may alvvaies an&#383;vvere your ovvne vvi&#383;h, and the vvorlds hope-</line>
+<line>full expe&#392;tation.</line>
+<dedclosing>Your Honors in all dutie,</dedclosing>
+<dedauthor>William Shake&#383;peare.</dedauthor>
+</dedication>
+
+</poemintro>
+
+<poembody>
+<stanza>
+<line order="first"><dropcap>E</dropcap>ven as the &#383;unne with purple-colourd face,</line>
+<line order="second">Had tane his la&#383;t leaue of the weeping morne,</line>
+<line>Ro&#383;e-cheekt Adonis hied him to the chace,</line>
+<line>Hunting he lou&#8217;d, but loue he laught to &#383;corne:</line>
+<couplet>
+<line>Sick-thoughted Venus makes amaine vnto him,</line>
+<line>And like a bold-fac&#8217;d &#383;uter ginnes to woo him.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thri&#383;e fairer then my &#383;elfe, (thus &#383;he began)</line>
+<line>The &#64257;elds chiefe &#64258;ower, &#383;weet aboue compare,</line>
+<line>Staine to all Nimphs, more louely then a man,</line>
+<line>More white, and red, then doues, or ro&#383;es are:</line>
+<couplet>
+<line>Nature that made thee with her &#383;elfe at &#383;trife,</line>
+<line>Saith that the world hath ending with thy life.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Vouch&#383;afe thou wonder to alight thy &#383;teed,</line>
+<line>And raine his proud head to the &#383;addle bow,</line>
+<line>If thou wilt daine this fauor, for thy meed</line>
+<line>A thou&#383;and honie &#383;ecrets &#383;halt thou know:</line>
+<couplet>
+<line>Here come and &#383;it, where neuer &#383;erpent hi&#383;&#383;es,</line>
+<line>And being &#383;et, Ile &#383;mother thee with ki&#383;&#383;es.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And yet not cloy thy lips with loth&#8217;d &#383;acietie,</line>
+<line>But rather fami&#383;h them amid their plentie,</line>
+<line>Making them red, and pale, with fre&#383;h varietie:</line>
+<line>Ten ki&#383;&#383;es &#383;hort as one, one long as twentie:</line>
+<couplet>
+<line>A &#383;ommers day will &#383;eeme an houre but &#383;hort,</line>
+<line>Being wa&#383;ted in &#383;uch time-beguiling &#383;port.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVith this &#383;he ceazeth on his &#383;weating palme,</line>
+<line>The pre&#383;ident of pith, and liuelyhood,</line>
+<line>And trembling in her pa&#383;&#383;ion, calls it balme,</line>
+<line>Earths &#383;oueraigne &#383;alue, to do a godde&#383;&#383;e good,</line>
+<couplet>
+<line>Being &#383;o enragd, de&#383;ire doth lend her force,</line>
+<line>Couragiou&#383;ly to plucke him from his hor&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Ouer one arme the lu&#383;tie cour&#383;ers raine,</line>
+<line>Vnder her other was the tender boy,</line>
+<line>VVho blu&#383;ht, and powted in a dull di&#383;daine,</line>
+<line>VVith leaden appetite, vnapt to toy,</line>
+<couplet>
+<line>She red, and hot, as coles of glovving &#64257;er,</line>
+<line>Hered for &#383;hame, but fro&#383;tie in de&#383;ier.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The &#383;tudded bridle on a ragged bough,</line>
+<line>Nimbly &#383;he fa&#383;tens, (&#244; how quicke is loue!)</line>
+<line>The &#383;teed is &#383;talled vp, and euen now,</line>
+<line>To tie the rider &#383;he begins to proue:</line>
+<couplet>
+<line>Backward &#383;he pu&#383;ht him, as &#383;he would be thru&#383;t,</line>
+<line>And gouernd him in &#383;trength though not in lu&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>So &#383;oone was &#383;he along, as he was downe,</line>
+<line>Each leaning on their elbowes and their hips:</line>
+<line>Now doth &#383;he &#383;troke his cheek, now doth he frown,</line>
+<line>And gins to chide, but &#383;oone &#383;he &#383;tops his lips,</line>
+<couplet>
+<line>And ki&#383;&#383;ing &#383;peaks, with lu&#383;tful language broken,</line>
+<line>If thou wilt chide, thy lips &#383;hall neuer open.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>He burnes with ba&#383;hfull &#383;hame, &#383;he with her teares</line>
+<line>Doth quench the maiden burning of his cheekes,</line>
+<line>Then with her windie &#383;ighes, and golden heares,</line>
+<line>To fan, and blow them drie againe &#383;he &#383;eekes.</line>
+<couplet>
+<line>He &#383;aith, &#383;he is immode&#383;t, blames her mi&#383;&#383;e,</line>
+<line>VVhat followes more, &#383;he murthers with a ki&#383;&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Euen as an emptie Eagle &#383;harpe by fa&#383;t,</line>
+<line>Tires with her beake on feathers, &#64258;e&#383;h, and bone,</line>
+<line>Shaking her wings, deuouring all in ha&#383;t,</line>
+<line>Till either gorge be &#383;tu&#64261;, or pray be gone:</line>
+<couplet>
+<line>Euen &#383;o &#383;he ki&#383;t his brow, his cheeke, his chin,</line>
+<line>And where &#383;he ends, &#383;he doth anew begin.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For&#383;t to content, but neuer to obey,</line>
+<line>Panting he lies, and breatheth in her face.</line>
+<line>She feedeth on the &#383;teame, as on a pray,</line>
+<line>And calls it heauenly moi&#383;ture, aire of grace,</line>
+<couplet>
+<line>VVi&#383;hing her cheeks were gardens ful of &#64258;owers,</line>
+<line>So they were dew&#8217;d with &#383;uch di&#383;tilling &#383;howers.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Looke how a bird lyes tangled in a net,</line>
+<line>So fa&#383;tned in her armes Adonis lyes,</line>
+<line>Pure &#383;hame and aw&#8217;d re&#383;i&#383;tance made him fret,</line>
+<line>VVhich bred more beautie in his angrie eyes:</line>
+<couplet>
+<line>Raine added to a riuer that is ranke,</line>
+<line>Perforce will force it ouer&#64258;ow the banke.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Still &#383;he intreats, and prettily intreats,</line>
+<line>For to a prettie eare &#383;he tunes her tale.</line>
+<line>Still is he &#383;ullein, &#383;till he lowres and frets,</line>
+<line>Twixt crim&#383;on &#383;hame, and anger a&#383;hie pale,</line>
+<couplet>
+<line>Being red &#383;he loues him be&#383;t, and being white,</line>
+<line>Her be&#383;t is betterd with a more delight.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Looke how he can, &#383;he cannot chu&#383;e but loue,</line>
+<line>And by her faire immortall hand &#383;he &#383;weares,</line>
+<line>From his &#383;o&#64261; bo&#383;ome neuer to remoue,</line>
+<line>Till he take truce with her contending teares,</line>
+<couplet>
+<line>VVhich l&#333;g haue raind, making her cheeks al wet,</line>
+<line>And one &#383;weet ki&#383;&#383;e &#383;hal pay this comptle&#383;&#383;e debt.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Vpon this promi&#383;e did he rai&#383;e his chin,</line>
+<line>Like a diuedapper peering through a waue,</line>
+<line>VVho being lookt on, ducks as quickly in:</line>
+<line>So offers he to giue what &#383;he did craue,</line>
+<couplet>
+<line>But when her lips were readie for his pay,</line>
+<line>He winks, and turnes his lips another way.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Neuer did pa&#383;&#383;enger in &#383;ommers heat,</line>
+<line>More thir&#383;t for drinke, then &#383;he for this good turne,</line>
+<line>Her helpe &#383;he &#383;ees, but helpe &#383;he cannot get,</line>
+<line>She bathes in water, yet her &#64257;re mu&#383;t burne:</line>
+<couplet>
+<line>Oh pitie gan &#383;he crie, &#64258;int-hearted boy,</line>
+<line>Tis but a ki&#383;&#383;e I begge, why art thou coy?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>I haue bene wo&#339;d as I intreat thee now,</line>
+<line>Euen by the &#383;terne, and direfull god of warre,</line>
+<line>VVho&#383;e &#383;inowie necke in battell nere did bow,</line>
+<line>VVho conquers where he comes in euerie iarre,</line>
+<couplet>
+<line>Yet hath he bene my captiue, and my &#383;laue,</line>
+<line>And begd for that which thou vnaskt &#383;halt haue.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Ouer my Altars hath he hong his launce,</line>
+<line>His battred &#383;hield, his vncontrolled cre&#383;t,</line>
+<line>And for my &#383;ake hath learnd to &#383;port, and daunce,</line>
+<line>To toy, to wanton, dallie, &#383;mile, and ie&#383;t,</line>
+<couplet>
+<line>Scorning his churli&#383;h drumme, and en&#383;igne red,</line>
+<line>Making my armes his &#64257;eld, his tent my bed.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thus he that ouer-ruld, I ouer-&#383;wayed,</line>
+<line>Leading him pri&#383;oner in a red ro&#383;e chaine,</line>
+<line>Strong-temperd &#383;teele his &#383;tronger &#383;trength obayed.</line>
+<line>Yet was he &#383;eruile to my coy di&#383;daine,</line>
+<couplet>
+<line>Oh be not proud, nor brag not of thy might,</line>
+<line>For mai&#383;tring her that foyld the god of &#64257;ght.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Touch but my lips with tho&#383;e faire lips of thine,</line>
+<line>Though mine be not &#383;o faire, yet are they red,</line>
+<line>The ki&#383;&#383;e &#383;halbe thine owne as well as mine,</line>
+<line>VVhat &#383;ee&#383;t thou in the ground? hold vp thy head,</line>
+<couplet>
+<line>Looke in mine ey-bals, there thy beautie lyes,</line>
+<line>Then why not lips on lips, &#383;ince eyes in eyes?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Art thou a&#383;ham&#8217;d to ki&#383;&#383;e? then winke againe,</line>
+<line>And I will winke, &#383;o &#383;hall the day &#383;eeme night.</line>
+<line>Loue keepes his reuels where there are but twaine:</line>
+<line>Be bold to play, our &#383;port is not in &#383;ight,</line>
+<couplet>
+<line>The&#383;e blew-veind violets whereon we leane,</line>
+<line>Neuer can blab, nor know not what we meane.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The tender &#383;pring vpon thy tempting lip</line>
+<line>Shewes thee vnripe; yet mai&#383;t thou well be ta&#383;ted,</line>
+<line>Make v&#383;e of time, let not aduantage &#383;lip,</line>
+<line>Beautie within it &#383;elfe &#383;hould not be wa&#383;ted,</line>
+<couplet>
+<line>Faire &#64258;owers that are not gathred in their prime,</line>
+<line>Rot, and con&#383;ume them &#383;elues in litle time.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVere I hard-fauourd, foule, or wrinckled old,</line>
+<line>Il-nurtur&#8217;d, crooked, churli&#383;h, har&#383;h in voice,</line>
+<line>Ore-worne, de&#383;pi&#383;ed, reumatique, and cold,</line>
+<line>Thick-&#383;ighted, barren, leane, and lacking iuyce;</line>
+<couplet>
+<line>Th&#275; might&#383;t thou pau&#383;e, for th&#275; I were not for thee,</line>
+<line>But hauing no defe&#392;ts, why d&#339;&#383;t abhor me?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thou can&#383;t not &#383;ee one wrinckle in my brow,</line>
+<line>Mine eyes are grey, and bright, &amp; quicke in turning:</line>
+<line>My beautie as the &#383;pring doth yearelie grow,</line>
+<line>My &#64258;e&#383;h is &#383;o&#64261;, and plumpe, my marrow burning,</line>
+<couplet>
+<line>My &#383;mooth moi&#383;t hand, were it with thy hand felt,</line>
+<line>VVould in thy palme di&#383;&#383;olue, or &#383;eeme to melt.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Bid me di&#383;cour&#383;e, I will inchaunt thine eare,</line>
+<line>Or like a Fairie, trip vpon the greene,</line>
+<line>Or like a Nimph, with long di&#383;heueled heare,</line>
+<line>Daunce on the &#383;ands, and yet no footing &#383;eene.</line>
+<couplet>
+<line>Loue is a &#383;pirit all compa&#392;t of &#64257;re,</line>
+<line>Not gro&#383;&#383;e to &#383;inke, but light, and will a&#383;pire.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVitne&#383;&#383;e this Primro&#383;e banke whereon I lie,</line>
+<line>The&#383;e forcele&#383;&#383;e &#64258;owers like &#383;turdy trees &#383;upport me:</line>
+<line>Two &#383;tr&#275;gthles doues will draw me through the skie,</line>
+<line>From morne till night, euen where I li&#383;t to &#383;port me.</line>
+<couplet>
+<line>Is loue &#383;o light &#383;weet boy, and may it be,</line>
+<line>That thou &#383;hould thinke it heauie vnto thee?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Is thine owne heart to thine owne face affe&#392;ted?</line>
+<line>Can thy right hand ceaze loue vpon thy le&#64261;?</line>
+<line>Then woo thy &#383;elfe, be of thy &#383;elfe reie&#392;ted:</line>
+<line>Steale thine own freedome, and complaine on the&#64261;.</line>
+<couplet>
+<line>Narci&#383;&#383;us &#383;o him &#383;elfe him &#383;elfe for&#383;ooke,</line>
+<line>And died to ki&#383;&#383;e his &#383;hadow in the brooke.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Torches are made to light, iewels to weare,</line>
+<line>Dainties to ta&#383;t, fre&#383;h beautie for the v&#383;e,</line>
+<line>Herbes for their &#383;mell, and &#383;appie plants to beare.</line>
+<line>Things growing to them &#383;elues, are growths abu&#383;e,</line>
+<couplet>
+<line>Seeds &#383;pring fr&#333; &#383;eeds, &amp; beauty breedeth beauty,</line>
+<line>Thou wa&#383;t begot, to get it is thy duty.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Vpon the earths increa&#383;e why &#383;hould&#383;t thou feed,</line>
+<line>Vnle&#383;&#383;e the earth with thy increa&#383;e be fed?</line>
+<line>By law of nature thou art bound to breed,</line>
+<line>That thine may liue, when thou thy &#383;elfe art dead:</line>
+<couplet>
+<line>And &#383;o in &#383;pite of death thou d&#339;&#383;t &#383;uruiue,</line>
+<line>In that thy likene&#383;&#383;e &#383;till is le&#64261; aliue.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>By this the loue-&#383;icke Queene began to &#383;weate,</line>
+<line>For where they lay the &#383;hadow had for&#383;ooke them,</line>
+<line>And Titan tired in the midday heate,</line>
+<line>VVith burning eye did hotly ouer-looke them,</line>
+<couplet>
+<line>VVi&#383;hing Adonis had his teame to guide,</line>
+<line>So he were like him, and by Venus &#383;ide.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And now Adonis with a lazie &#383;prite,</line>
+<line>And with a heauie, darke, di&#383;liking eye,</line>
+<line>His lowring browes ore-whelming his faire &#383;ight,</line>
+<line>Likd mi&#383;tie vapors when they blot the skie,</line>
+<couplet>
+<line>So wring his cheekes, cries, &#64257;e, no more of loue,</line>
+<line>The &#383;unne doth burne my face I mu&#383;t remoue.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Ay, me, (quoth Venus) young, and &#383;o vnkinde,</line>
+<line>VVhat bare excu&#383;es mak&#8217;&#383;t thou to be gon?</line>
+<line>Ile &#383;igh cele&#383;tiall breath, who&#383;e gentle winde,</line>
+<line>Shall coole the heate of this de&#383;cending &#383;un:</line>
+<couplet>
+<line>Ile make a &#383;hadow for thee of my heares,</line>
+<line>If they burn too, Ile quench them with my teares.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The &#383;un that &#383;hines from heauen, &#383;hines but warme,</line>
+<line>And lo I lye betweene that &#383;unne, and thee:</line>
+<line>The heate I haue from thence doth litle harme,</line>
+<line>Thine eye darts forth the &#64257;re that burneth me,</line>
+<couplet>
+<line>And were I not immortall, life were done,</line>
+<line>Betweene this heauenly, and earthly &#383;unne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Art thou obdurate, &#64258;intie, hard as &#383;teele?</line>
+<line>Nay more then &#64258;int, for &#383;tone at raine relenteth:</line>
+<line>Art thou a womans &#383;onne and can&#383;t not feele</line>
+<line>VVhat tis to loue, how want of loue tormenteth?</line>
+<couplet>
+<line>O had thy mother borne &#383;o hard a minde,</line>
+<line>She had not brought forth thee, but died vnkind.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>What am I that thou &#383;hould&#383;t contemne me this?</line>
+<line>Or what great danger, dwels vpon my &#383;ute?</line>
+<line>What were thy lips the wor&#383;e for one poore kis?</line>
+<line>Speake faire, but &#383;peake faire words, or el&#383;e be mute:</line>
+<couplet>
+<line>Giue me one ki&#383;&#383;e, Ile giue it thee againe,</line>
+<line>And one for intre&#383;t, if thou wilt haue twaine.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Fie, liuele&#383;&#383;e pi&#392;ture, cold, and &#383;encele&#383;&#383;e &#383;tone,</line>
+<line>VVell painted idoll, image dull, and dead,</line>
+<line>Statüe contenting but the eye alone,</line>
+<line>Thing like a man, but of no woman bred:</line>
+<couplet>
+<line>Thou art no man, though of a mans complexion,</line>
+<line>For men will ki&#383;&#383;e euen by their owne dire&#392;tion.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This &#383;aid, impatience chokes her pleading tongue,</line>
+<line>And &#383;welling pa&#383;&#383;ion doth prouoke a pau&#383;e,</line>
+<line>Red cheeks, and &#64257;erie eyes blaze forth her wrong:</line>
+<line>Being Iudge in loue, &#383;he cannot right her cau&#383;e.</line>
+<couplet>
+<line>And now &#383;he weeps, &amp; now &#383;he faine would &#383;peake</line>
+<line>And now her &#383;obs do her intendments breake.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Sometime &#383;he &#383;hakes her head, and then his hand,</line>
+<line>Now gazeth &#383;he on him, now on the ground;</line>
+<line>Sometime her armes infold him like a band,</line>
+<line>She would, he will not in her armes be bound:</line>
+<couplet>
+<line>And when from thence he &#383;truggles to be gone,</line>
+<line>She locks her lillie &#64257;ngers one in one.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Fondling, &#383;he &#383;aith, &#383;ince I haue hemd thee here</line>
+<line>VVithin the circuit of this iuorie pale,</line>
+<line>Ile be a parke, and thou &#383;halt be my deare:</line>
+<line>Feed where thou wilt, on mountaine, or in dale;</line>
+<couplet>
+<line>Graze on my lips, and if tho&#383;e hils be drie,</line>
+<line>Stray-lower, where the plea&#383;ant fountaines lie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVitin this limit is reliefe inough,</line>
+<line>Sweet bottome gra&#383;&#383;e, and high delightfull plaine,</line>
+<line>Round ri&#383;ing hillocks, brakes ob&#383;cure, and rough,</line>
+<line>To &#383;helter thee from tempe&#383;t, and from raine:</line>
+<couplet>
+<line>Then be my deare, &#383;ince I am &#383;uch a parke,</line>
+<line>No dog &#383;hal rowze thee, though a thou&#383;and bark.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>At this Adonis &#383;miles as in di&#383;daine,</line>
+<line>That in ech cheeke appeares a prettie dimple;</line>
+<line>Loue made tho&#383;e hollowes, if him &#383;elfe were &#383;laine,</line>
+<line>He might be buried in a tombe &#383;o &#383;imple,</line>
+<couplet>
+<line>Foreknowing well, if there he came to lie,</line>
+<line>VVhy there loue liu&#8217;d, &amp; there he could not die.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The&#383;e louely caues, the&#383;e round inchanting pits,</line>
+<line>Opend their mouthes to &#383;wallow Venus liking:</line>
+<line>Being mad before, how doth &#383;he now for wits?</line>
+<line>Strucke dead at &#64257;r&#383;t, what needs a &#383;econd &#383;triking?</line>
+<couplet>
+<line>Poore Queene of loue, in thine own law forlorne,</line>
+<line>To loue a cheeke that &#383;miles at thee in &#383;corne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now which way &#383;hall &#383;he turne? what &#383;hall &#383;he &#383;ay?</line>
+<line>Her words are done, her w&#339;s the more increa&#383;ing,</line>
+<line>The time is &#383;pent, her obie&#392;t will away,</line>
+<line>And from her twining armes doth vrge relea&#383;ing:</line>
+<couplet>
+<line>Pitie &#383;he cries, &#383;ome fauour, &#383;ome remor&#383;e,</line>
+<line>Away he &#383;prings, and ha&#383;teth to his hor&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>But lo from forth a copps that neighbors by,</line>
+<line>A breeding Iennet, lu&#383;tie, young, and proud,</line>
+<line>Adonis trampling Cour&#383;er doth e&#383;py:</line>
+<line>And forth &#383;he ru&#383;hes, &#383;norts, and neighs aloud.</line>
+<couplet>
+<line>The &#383;trong-neckt &#383;teed being tied vnto a tree,</line>
+<line>Breaketh his raine, and to her &#383;traight g&#339;s hee.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Imperiou&#383;ly he leaps, he neighs, he bounds,</line>
+<line>And now his wouen girthes he breaks a&#383;under,</line>
+<line>The bearing earth with his hard hoofe he wounds,</line>
+<line>Who&#383;e hollow wombe re&#383;ounds like heauens thunder,</line>
+<couplet>
+<line>The yron bit he cru&#383;heth tweene his teeth,</line>
+<line>Controlling what he was controlled with.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>His eares vp prickt, his braided hanging mane</line>
+<line>Vpon his compa&#383;t cre&#383;t now &#383;tand on end,</line>
+<line>His no&#383;trils drinke the aire, and forth againe</line>
+<line>As from a fornace, vapors doth he &#383;end:</line>
+<couplet>
+<line>His eye which &#383;cornfully gli&#383;ters like &#64257;re,</line>
+<line>Shewes his hote courage, and his high de&#383;ire.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Sometime he trots, as if he told the &#383;teps,</line>
+<line>VVith gentle maie&#383;tie, and mode&#383;t pride,</line>
+<line>Anon he reres vpright, curuets, and leaps,</line>
+<line>As who &#383;hould &#383;ay, lo thus my &#383;trength is tride.</line>
+<couplet>
+<line>And this I do, to captiuate the eye,</line>
+<line>Of the faire breeder that is &#383;tanding by.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhat recketh he his riders angrie &#383;turre,</line>
+<line>His &#64258;attering holla, or his &#383;tand, I &#383;ay,</line>
+<line>VVhat cares he now, for curbe, or pricking &#383;purre,</line>
+<line>For rich capari&#383;ons, or trappings gay:</line>
+<couplet>
+<line>He &#383;ees his loue, and nothing el&#383;e he &#383;ees,</line>
+<line>For nothing el&#383;e with his proud &#383;ight agrees.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Looke when a Painter would &#383;urpa&#383;&#383;e the life,</line>
+<line>In limming out a well proportioned &#383;teed,</line>
+<line>His Art with Natures workman&#383;hip at &#383;trife,</line>
+<line>As if the dead the liuing &#383;hould exceed:</line>
+<couplet>
+<line>So did this Hor&#383;e excell a common one,</line>
+<line>In &#383;hape, in courage, colour, pace and bone.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Round hoo&#64261;, &#383;hort ioynted, fetlocks &#383;hag, and long,</line>
+<line>Broad brea&#383;t, full eye, &#383;mall head, and no&#383;trill wide,</line>
+<line>High cre&#383;t, &#383;hort eares, &#383;traight legs, &amp; pa&#383;&#383;ing &#383;tr&#333;g,</line>
+<line>Thin mane, thicke taile, broad buttock, tender hide:</line>
+<couplet>
+<line>Looke what a Hor&#383;e &#383;hould haue, he did not lack,</line>
+<line>Saue a proud rider on &#383;o proud a back.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Sometime he &#383;cuds farre off, aud there he &#383;tares,</line>
+<line>Anon he &#383;tarts, at &#383;turring of a feather:</line>
+<line>To bid the wind a ba&#383;e he now prepares,</line>
+<line>And where he runne, or &#64258;ie, they know not whether:</line>
+<couplet>
+<line>For through his mane, &amp; taile, the high wind &#383;ings,</line>
+<line>Fanning the haires, who waue like feathred wings.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>He lookes vpon his loue, and neighes vnto her,</line>
+<line>She an&#383;wers him, as if &#383;he knew his minde,</line>
+<line>Being proud as females are, to &#383;ee him woo her,</line>
+<line>She puts on outward &#383;trangene&#383;&#383;e, &#383;eemes vnkinde:</line>
+<couplet>
+<line>Spurnes at his loue, and &#383;corns the heat he feeles,</line>
+<line>Beating his kind imbracements with her heeles.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Then like a melancholy malcontent,</line>
+<line>He vailes his taile that like a falling plume,</line>
+<line>Coole &#383;hadow to his melting buttocke lent,</line>
+<line>He &#383;tamps, and bites the poore &#64258;ies in his fume:</line>
+<couplet>
+<line>His loue perceiuing how he was inrag&#8217;d,</line>
+<line>Grew kinder, and his furie was a&#383;&#383;wag&#8217;d.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>His te&#383;tie mai&#383;ter g&#339;th about to take him,</line>
+<line>VVhen lo the vnbackt breeder full of feare,</line>
+<line>Iealous of catching, &#383;wi&#64261;ly doth for&#383;ake him,</line>
+<line>VVith her the Hor&#383;e, and le&#64261; Adonis there:</line>
+<couplet>
+<line>As they were mad vnto the wood they hie them,</line>
+<line>Out&#383;tripping crowes, that &#383;triue to ouer&#64258;y them.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>All &#383;wolne with chafing, downe Adonis &#383;its,</line>
+<line>Banning his boy&#383;trous, and vnruly bea&#383;t;</line>
+<line>And now the happie &#383;ea&#383;on once more &#64257;ts</line>
+<line>That loue&#383;icke loue, by pleading may be ble&#383;t:</line>
+<couplet>
+<line>For louers &#383;ay, the heart hath treble wrong,</line>
+<line>VVhen it is bard the aydance of the tongue.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>An Ouen that is &#383;topt, or riuer &#383;tayd,</line>
+<line>Burneth more hotly, &#383;welleth with more rage:</line>
+<line>So of concealed &#383;orow may be &#383;ayd,</line>
+<line>Free vent of words loues &#64257;er doth a&#383;&#383;wage,</line>
+<couplet>
+<line>But when the hearts atturney once is mute,</line>
+<line>The client breakes, as de&#383;perat in his &#383;ute.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>He &#383;ees her comming, and begins to glow:</line>
+<line>Euen as a dying coale reuiues with winde,</line>
+<line>And with his bonnet hides his angrie brow,</line>
+<line>Lookes on the dull earth with di&#383;turbed minde:</line>
+<couplet>
+<line>Taking no notice that &#383;he is &#383;o nye,</line>
+<line>For all askance he holds her in his eye.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O what a &#383;ight it was wi&#383;tly to view,</line>
+<line>How &#383;he came &#383;tealing to the wayward boy,</line>
+<line>To note the &#64257;ghting con&#64258;i&#392;t of her hew,</line>
+<line>How white and red, ech other did de&#383;troy:</line>
+<couplet>
+<line>But now her cheeke was pale, and by and by</line>
+<line>It &#64258;a&#383;ht forth &#64257;re, as lightning from the skie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now was &#383;he iu&#383;t before him as he &#383;at,</line>
+<line>And like a lowly louer downe &#383;he kneeles,</line>
+<line>VVith one faire hand &#383;he heaueth vp his hat,</line>
+<line>Her other tender hand his faire cheeke feeles:</line>
+<couplet>
+<line>His tendrer cheeke, receiues her &#383;o&#64261; hands print,</line>
+<line>As apt, as new falne &#383;now takes any dint.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Oh what a war of lookes was then betweene them,</line>
+<line>Her eyes petitioners to his eyes  &#383;uing,</line>
+<line>His eyes &#383;aw her eyes, as they had not &#383;eene them,</line>
+<line>Her eyes wo&#339;d &#383;till, his eyes di&#383;daind the wooing:</line>
+<couplet>
+<line>And all this dumbe play had his a&#392;ts made plain,</line>
+<line>VVith tears which Chorus-like her eyes did rain.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Full gently now &#383;he takes him by the hand,</line>
+<line>A lillie pri&#383;ond in a gaile of &#383;now,</line>
+<line>Or Iuorie in an allabla&#383;ter band,</line>
+<line>So white a friend, ingirts &#383;o white a fo:</line>
+<couplet>
+<line>This beautious combat wilfull, and vnwilling,</line>
+<line>Showed like two &#383;iluer doues that &#383;it a billing.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Once more the engin of her thoughts began,</line>
+<line>O faire&#383;t mouer on this mortall round,</line>
+<line>VVould thou wert as I am, and I a man,</line>
+<line>My heart all whole as thine, thy heart my wound,</line>
+<couplet>
+<line>For one &#383;weet looke thy helpe I would a&#383;&#383;ure thee,</line>
+<line>Thogh nothing but my bodies bane wold cure thee.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Giue me my hand (&#383;aith he,) why do&#383;t thou feele it?</line>
+<line>Giue me my heart (&#383;aith &#383;he,) and thou &#383;halt haue it.</line>
+<line>O giue it me le&#383;t thy hard heart do &#383;teele it,</line>
+<line>And being &#383;teeld, &#383;o&#64261; &#383;ighes can neuer graue it.</line>
+<couplet>
+<line>Then loues deepe grones, I neuer &#383;hall regard,</line>
+<line>Becau&#383;e Adonis heart hath made mine hard.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For &#383;hame he cries, let go, and let me go,</line>
+<line>My dayes delight is pa&#383;t, my hor&#383;e is gone,</line>
+<line>And tis your fault I am bere&#64261; him &#383;o,</line>
+<line>I pray you hence, and leaue me here alone,</line>
+<couplet>
+<line>For all my mind, my thought, my bu&#383;ie care,</line>
+<line>Is how to get my palfrey from the mare.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thus &#383;he replies, thy palfrey as he &#383;hould,</line>
+<line>VVelcomes the warme approch of &#383;weet de&#383;ire,</line>
+<line>Affe&#392;tion is a coale that mu&#383;t be coold,</line>
+<line>El&#383;e &#383;ufferd it will &#383;et the heart on &#64257;re,</line>
+<couplet>
+<line>The &#383;ea hath bounds, but deepe de&#383;ire hath none,</line>
+<line>Therfore no maruell though thy hor&#383;e be gone.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>How like a iade he &#383;tood tied to the tree,</line>
+<line>Seruilly mai&#383;terd with a leatherne raine,</line>
+<line>But when he &#383;aw his loue, his youths faire fee,</line>
+<line>He held &#383;uch pettie bondage in di&#383;daine:</line>
+<couplet>
+<line>Throwing the ba&#383;e thong from his bending cre&#383;t,</line>
+<line>Enfranchi&#383;ing his mouth, his backe, his bre&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVho &#383;ees his true-loue in her naked bed,</line>
+<line>Teaching the &#383;heets a whiter hew than white,</line>
+<line>But when his glutton eye &#383;o full hath fed,</line>
+<line>His other agents ayme at like delight?</line>
+<couplet>
+<line>VVho is &#383;o faint that dares not be &#383;o bold,</line>
+<line>To touch the fier the weather being cold?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Let me excu&#383;e thy cour&#383;er gentle boy,</line>
+<line>And learne of him I heartily be&#383;eech thee,</line>
+<line>To take aduantage on pre&#383;ented ioy,</line>
+<line>Though I were d&#363;be, yet his proceedings teach thee</line>
+<couplet>
+<line>O learne to loue, the le&#383;&#383;on is but plaine,</line>
+<line>And once made perfe&#392;t, neuer lo&#383;t againe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>I know not loue (quoth he) nor will not know it,</line>
+<line>Vnle&#383;&#383;e it be a Boare, and then I cha&#383;e it,</line>
+<line>Tis much to borrow, and I will not owe it,</line>
+<line>My loue to loue, is loue, but to di&#383;grace it,</line>
+<couplet>
+<line>For I haue heard, it is a life in death,</line>
+<line>That laughs and weeps, and all but with a breath.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVho weares a garment &#383;hapele&#383;&#383;e and vn&#64257;ni&#383;ht?</line>
+<line>VVho plucks the bud before one leafe put forth?</line>
+<line>If &#383;pringing things be anie iot dimini&#383;ht,</line>
+<line>They wither in their prime, proue nothing worth,</line>
+<couplet>
+<line>The colt that&#8217;s backt and burthend being yong,</line>
+<line>Lo&#383;eth his pride, and neuer waxeth &#383;trong.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>You hurt my hand with wringing, let vs part,</line>
+<line>And leaue this idle theame, this bootle&#383;&#383;e chat,</line>
+<line>Remoue your &#383;iege from my vnyeelding hart,</line>
+<line>To loues allarmes it will not ope the gate,</line>
+<couplet>
+<line>Di&#383;mi&#383;&#383;e your vows, your fained tears, your &#64258;attry,</line>
+<line>For where a heart is hard they make no battry.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Once more the rubi-colourd portall opend,</line>
+<line>VVhich to his &#383;peech did honie pa&#383;&#383;age yeeld,</line>
+<line>Like a red morne that euer yet betokend,</line>
+<line>VVracke to the &#383;ea-man, tempe&#383;t to the &#64257;eld:</line>
+<couplet>
+<line>Sorrow to &#383;hepherds, wo vnto the birds,</line>
+<line>Gu&#383;ts, and foule &#64258;awes, to heardmen, &amp; to herds.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This ill pre&#383;age adui&#383;edly &#383;he marketh,</line>
+<line>Euen as the wind is hu&#383;ht before it raineth:</line>
+<line>Or as the wolfe doth grin before he barketh:</line>
+<line>Or as the berrie breakes before it &#383;taineth:</line>
+<couplet>
+<line>Or like the deadly bullet of a gun:</line>
+<line>His meaning &#383;trucke her ere his words begun.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And at his looke &#383;he &#64258;atly falleth downe,</line>
+<line>For lookes kill loue, and loue by lookes reuiueth,</line>
+<line>A &#383;mile recures the wounding of a frowne,</line>
+<line>But ble&#383;&#383;ed bankrout that by loue &#383;o thriueth.</line>
+<couplet>
+<line>The &#383;illie boy beleeuing &#383;he is dead,</line>
+<line>Claps her pale cheeke, till clapping makes it red.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And all amaz&#8217;d, brake off his late intent,</line>
+<line>For &#383;harply he did thinke to reprehend her,</line>
+<line>VVhich cunning loue did wittily preuent,</line>
+<line>Faire-fall the wit that can &#383;o well defend her:</line>
+<couplet>
+<line>For on the gra&#383;&#383;e &#383;he lyes as &#383;he were &#383;laine,</line>
+<line>Till his breath breatheth life in her againe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>He wrings her no&#383;e, he &#383;trikes her on the cheekes,</line>
+<line>He bends her &#64257;ngers, holds her pul&#383;es hard,</line>
+<line>He chafes her lips, a thou&#383;and wayes he &#383;eekes,</line>
+<line>To mend the hurt, that his vnkindne&#383;&#383;e mard,</line>
+<couplet>
+<line>He ki&#383;&#383;es her, and &#383;he by her good will,</line>
+<line>VVill neuer ri&#383;e, &#383;o he will ki&#383;&#383;e her &#383;till.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The night of &#383;orrow now is turnd to day,</line>
+<line>Her two blew windowes faintly &#383;he vpheaueth,</line>
+<line>Like the faire &#383;unne when in his fre&#383;h array,</line>
+<line>He cheeres the morne, and all the earth releeueth:</line>
+<couplet>
+<line>And as the bright &#383;unne glori&#64257;es the skie:</line>
+<line>So is her face illumind with her eye.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVho&#383;e beames vpon his hairele&#383;&#383;e face are &#64257;xt,</line>
+<line>As if from thence they borrowed all their &#383;hine,</line>
+<line>VVere neuer foure &#383;uch lamps, together mixt,</line>
+<line>Had not his clouded with his browes repine.</line>
+<couplet>
+<line>But hers, which through the cri&#383;tal tears gaue light,</line>
+<line>Shone like the Moone in water &#383;eene by night.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O where am I (quoth &#383;he,) in earth or heauen,</line>
+<line>Or in the Ocean drencht, or in the &#64257;re:</line>
+<line>VVhat houre is this, or morne, or wearie euen,</line>
+<line>Do I delight to die or life de&#383;ire?</line>
+<couplet>
+<line>But now I liu&#8217;d, and life was deaths annoy,</line>
+<line>But now I dy&#8217;de, and death was liuely ioy.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O thou did&#383;t kill me, kill me once againe,</line>
+<line>Thy eyes &#383;hrowd tutor, that hard heart of thine,</line>
+<line>Hath taught them &#383;cornfull tricks, &amp; &#383;uch di&#383;daine,</line>
+<line>That they haue murdred this poore heart of mine,</line>
+<couplet>
+<line>And the&#383;e mine eyes true leaders to their queene,</line>
+<line>But for thy piteous lips no more had &#383;eene.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Long may they ki&#383;&#383;e ech other for this cure,</line>
+<line>Oh neuer let their crim&#383;on liueries weare,</line>
+<line>And as they la&#383;t, their verdour &#383;till endure,</line>
+<line>To driue infe&#392;tion from the dangerous yeare:</line>
+<couplet>
+<line>That the &#383;tar-gazers hauing writ on death,</line>
+<line>May &#383;ay, the plague is bani&#383;ht by thy breath.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Pure lips, &#383;weet &#383;eales in my &#383;o&#64261; lips imprinted,</line>
+<line>VVhat bargaines may I make &#383;till to be &#383;ealing?</line>
+<line>To &#383;ell my &#383;elfe I can be well contented,</line>
+<line>So thou wilt buy, and pay, and v&#383;e good dealing,</line>
+<couplet>
+<line>VVhich purcha&#383;e if thou make, for feare of &#383;lips,</line>
+<line>Set thy &#383;eale manuell; on my wax-red lips.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>A thou&#383;and ki&#383;&#383;es buyes my heart from me,</line>
+<line>And pay them at thy lei&#383;ure, one by one,</line>
+<line>VVhat is ten hundred touches vnto thee,</line>
+<line>Are they not quickly told, and quickly gone?</line>
+<couplet>
+<line>Say for non-paim&#275;t, that the debt &#383;hould double,</line>
+<line>Is twentie hundred ki&#383;&#383;es &#383;uch a trouble?</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Faire Queene (quoth he) if anie loue you owe me,</line>
+<line>Mea&#383;ure my &#383;trangene&#383;&#383;e with my vnripe yeares,</line>
+<line>Before I know my &#383;elfe, &#383;eeke not to know me,</line>
+<line>No &#64257;&#383;her but the vngrowne frie forbeares,</line>
+<couplet>
+<line>The mellow plum doth fall, the greene &#383;ticks fa&#383;t,</line>
+<line>Or being early pluckt, is &#383;ower to ta&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Looke the worlds comforter with wearie gate,</line>
+<line>His dayes hot taske hath ended in the we&#383;t,</line>
+<line>The owle (nights herald) &#383;hreeks, tis verie late,</line>
+<line>The &#383;heepe are gone to fold, birds to their ne&#383;t,</line>
+<couplet>
+<line>And cole-black clouds, that &#383;hadow heauens light,</line>
+<line>Do &#383;ummon vs to part, and bid good night.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now let me &#383;ay goodnight, and &#383;o &#383;ay you,</line>
+<line>If you will &#383;ay &#383;o, you &#383;hall haue a kis;</line>
+<line>Goodnight (quoth &#383;he) and ere he &#383;ayes <french lang="fr">adue</french>,</line>
+<line>The honie fee of parting tendred is,</line>
+<couplet>
+<line>Her armes do lend his necke a &#383;weet imbrace,</line>
+<line>Incorporate then they &#383;eeme, face growes to face.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Till breathle&#383;&#383;e he di&#383;ioynd, and backward drew,</line>
+<line>The heauenly moi&#383;ture that &#383;weet corall mouth,</line>
+<line>VVho&#383;e precious ta&#383;t, her thir&#383;tie lips well knew,</line>
+<line>VVhereon they &#383;urfet, yet complaine on drouth,</line>
+<couplet>
+<line>Ho with her plentie pre&#383;t &#383;he faint with dearth,</line>
+<line>Their lips together glewed, fall to the earth.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now quicke de&#383;ire hath caught the yeelding pray,</line>
+<line>And gluttonlike &#383;he feeds, yet neuer &#64257;lleth,</line>
+<line>Her lips are conquerers, his lips obay,</line>
+<line>Paying what ran&#383;ome the in&#383;ulter willeth:</line>
+<couplet>
+<line>VVho&#383;e vultur thought doth pitch the price &#383;o hie,</line>
+<line>That &#383;he will draw his lips rich trea&#383;ure drie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And hauing felt the &#383;weetne&#383;&#383;e of the &#383;poile,</line>
+<line>VVith blind fold furie &#383;he begins to forrage,</line>
+<line>Her face doth reeke, &amp;  &#383;moke, her blood doth boile,</line>
+<line>And carele&#383;&#383;e lu&#383;t &#383;tirs vp a de&#383;perat courage,</line>
+<couplet>
+<line>Planting obliuion, beating rea&#383;on backe,</line>
+<line>Forgetting &#383;hames pure blu&#383;h, &amp; honors wracke.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Hot, faint, and wearie, with her hard embracing,</line>
+<line>Like a wild bird being tam&#8217;d with too much h&#257;dling,</line>
+<line>Or as the &#64258;eet-foot R&#339; that&#8217;s tyr&#8217;d with cha&#383;ing,</line>
+<line>Or like the froward infant &#383;tild with dandling:</line>
+<couplet>
+<line>He now obayes, and now no more re&#383;i&#383;teth,</line>
+<line>VVhile &#383;he takes all &#383;he can, not all &#383;he li&#383;teth.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhat waxe &#383;o frozen but di&#383;&#383;olues with tempring,</line>
+<line>And yeelds at la&#383;t to euerie light impre&#383;&#383;ion?</line>
+<line>Things out of hope, are compa&#383;t o&#64261; with ventring,</line>
+<line>Chie&#64258;y in loue, who&#383;e leaue exceeds commi&#383;&#383;ion:</line>
+<couplet>
+<line>Affe&#392;tion faints not like a pale-fac&#8217;d coward,</line>
+<line>But th&#275; w&#339;s be&#383;t, whe mo&#383;t his choice is froward.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhen he did frowne, &#244; had &#383;he then gaue ouer,</line>
+<line>Such ne&#392;tar from his lips &#383;he had not &#383;uckt,</line>
+<line>Foule wordes, and frownes, mu&#383;t not repell a louer,</line>
+<line>VVhat though the ro&#383;e haue prickles, yet tis pluckt?</line>
+<couplet>
+<line>VVere beautie vnder twentie locks kept fa&#383;t,</line>
+<line>Yet loue breaks through, &amp;  picks them all at la&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For pittie now &#383;he can no more detaine him,</line>
+<line>The poore foole praies her that he may depart,</line>
+<line>She is re&#383;olu&#8217;d no longer to re&#383;traine him,</line>
+<line>Bids him farewell, and looke well to her hart,</line>
+<couplet>
+<line>The which by Cupids bow &#383;he doth prote&#383;t,</line>
+<line>He carries thence incaged in his bre&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Sweet boy &#383;he &#383;aies, this night ile wa&#383;t in &#383;orrow,</line>
+<line>For my &#383;ick heart commands mine eyes to watch,</line>
+<line>Tell me loues mai&#383;ter, &#383;hall we meete to morrow,</line>
+<line>Say, &#383;hall we, &#383;hall we, wilt thou make the match?</line>
+<couplet>
+<line>He tell&#8217;s her no, to morrow he intends,</line>
+<line>To hunt the boare with certaine of his frends.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>The boare (quoth &#383;he) whereat a &#383;uddain pale,</line>
+<line>Like lawne being &#383;pred vpon the blu&#383;hing ro&#383;e,</line>
+<line>V&#383;urpes her cheeke, &#383;he trembles at his tale,</line>
+<line>And on his neck her yoaking armes &#383;he throwes.</line>
+<couplet>
+<line>She &#383;incketh downe, &#383;till hanging by his necke,</line>
+<line>He on her belly fall&#8217;s, &#383;he on her backe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now is &#383;he in the verie li&#383;ts of loue,</line>
+<line>Her champion mounted for the hot incounter,</line>
+<line>All is imaginarie &#383;he doth proue,</line>
+<line>He will not mannage her, although he mount her,</line>
+<couplet>
+<line>That wor&#383;e then Tantalus is her annoy,</line>
+<line>To clip Elizium, and to lacke her ioy.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Euen &#383;o poore birds deceiu&#8217;d with painted grapes,</line>
+<line>Do &#383;urfet by the eye, and pine the maw:</line>
+<line>Euen &#383;o &#383;he langui&#383;heth in her mi&#383;haps,</line>
+<line>As tho&#383;e poore birds that helple&#383;&#383;e berries &#383;aw,</line>
+<couplet>
+<line>The warme effe&#392;ts which &#383;he in him &#64257;nds mi&#383;&#383;ing,</line>
+<line>She &#383;eekes to kindle with continuall ki&#383;&#383;ing.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>But all in vaine, good Queene, it will not bee,</line>
+<line>She hath a&#383;&#383;ai&#8217;d as much as may be prou&#8217;d,</line>
+<line>Her pleading hath de&#383;eru&#8217;d a greater fee,</line>
+<line>She&#8217;s loue; &#383;he loues, and yet &#383;he is not lou&#8217;d,</line>
+<couplet>
+<line>Fie, &#64257;e, he &#383;aies, you cru&#383;h me, let me go,</line>
+<line>You haue no rea&#383;on to withhold me &#383;o.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thou had&#383;t bin gone (quoth &#383;he) &#383;weet boy ere this,</line>
+<line>But that thou told&#383;t me, thou wold&#383;t hunt the boare,</line>
+<line>Oh be adui&#383;d, thou know&#8217;&#383;t nor what it is,</line>
+<line>VVith iauelings point a churli&#383;h &#383;wine to goare,</line>
+<couplet>
+<line>VVho&#383;e tu&#383;hes neuer &#383;heathd, he whetteth &#383;till,</line>
+<line>Like to a mortall butcher bent to kill.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>On his bow-backe, he hath a battell &#383;et,</line>
+<line>Of bri&#383;ly pikes that euer threat his f&#339;s,</line>
+<line>His eyes like glow-wormes &#383;hine when he doth fret</line>
+<line>His &#383;nout digs &#383;epulchers where ere he g&#339;s,</line>
+<couplet>
+<line>Being mou&#8217;d he &#383;trikes, what ere is in his way,</line>
+<line>And whom he &#383;trikes, his crooked tu&#383;hes &#383;lay.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>His brawnie &#383;ides with hairie bri&#383;tles armed,</line>
+<line>Are better proofe then thy &#383;peares point can enter,</line>
+<line>His &#383;hort thick necke cannot be ea&#383;ily harmed,</line>
+<line>Being irefull, on the lyon he will venter,</line>
+<couplet>
+<line>The thornie brambles, and imbracing bu&#383;hes,</line>
+<line>As fearefull of him part, through whom he ru&#383;hes.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Alas, he naught e&#383;teem&#8217;s that face of thine,</line>
+<line>To which loues eyes paies tributarie gazes,</line>
+<line>Nor thy &#383;o&#64261; handes, &#383;weet lips, and chri&#383;tall eine,</line>
+<line>VVho&#383;e full perfe&#392;tion all the world amazes,</line>
+<couplet>
+<line>But hauing thee at vantage (wondrous dread!)</line>
+<line>VVold roote the&#383;e beauties, as he root&#8217;s the mead.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Oh let him keep his loath&#383;ome cabin &#383;till,</line>
+<line>Beautie hath naught to do with &#383;uch foule &#64257;ends,</line>
+<line>Come not within his danger by thy will,</line>
+<line>They that thriue well, take coun&#383;ell of their friends,</line>
+<couplet>
+<line>VVhen thou did&#383;t name the boare, not to di&#383;&#383;&#275;ble</line>
+<line>I feard thy fortune, and my ioynts did tremble.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Did&#383;t thou not marke my face, was it not white?</line>
+<line>Sawe&#383;t thou not &#383;ignes of feare lurke in mine eye?</line>
+<line>Grew I not faint, and fell I not downe right?</line>
+<line>VVithin my bo&#383;ome whereon thou d&#339;&#383;t lye,</line>
+<couplet>
+<line>My boding heart, pants, beats, and takes no re&#383;t,</line>
+<line>But like an earthquake, &#383;hakes thee on my bre&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For where loue raignes, di&#383;turbing iealou&#383;ie,</line>
+<line>Doth call him &#383;elfe affe&#392;tions centinell,</line>
+<line>Giues fal&#383;e alarmes, &#383;ugge&#383;teth mutinie,</line>
+<line>And in a peacefull houre doth crie, kill, kill,</line>
+<couplet>
+<line>Di&#383;tempring gentle loue in his de&#383;ire,</line>
+<line>As aire, and water do abate the &#64257;re.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This &#383;ower informer, this bate-breeding &#383;pie,</line>
+<line>This canker that eates vp loues tender &#383;pring,</line>
+<line>This carry-tale, di&#383;&#383;entious iealou&#383;ie,</line>
+<line>That &#383;omtime true newes, &#383;omtime fal&#383;e doth bring,</line>
+<couplet>
+<line>Knocks at my heart, and whi&#383;pers in mine eare,</line>
+<line>That if I loue thee, I thy death &#383;hould feare.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And more than &#383;o, pre&#383;enteth to mine eye,</line>
+<line>The pi&#392;ture of an angrie chafing boare,</line>
+<line>Vnder who&#383;e &#383;harpe fangs, on his backe doth lye,</line>
+<line>An image like thy &#383;elfe, all &#383;taynd with goare,</line>
+<couplet>
+<line>VVho&#383;e blood vpon the fre&#383;h &#64258;owers being &#383;hed,</line>
+<line>Doth make th&#275; droop with grief, &amp; hang the hed.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhat &#383;hould I do, &#383;eeing thee &#383;o indeed?</line>
+<line>That tremble at th&#8217;imagination,</line>
+<line>The thought of it doth make my faint heart bleed,</line>
+<line>And feare doth teach it diuination;</line>
+<couplet>
+<line>I prophecie thy death, my liuing &#383;orrow,</line>
+<line>If thou incounter with the boare to morrow.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>But if thou needs wilt hunt, be rul&#8217;d by me,</line>
+<line>Vncouple at the timerous &#64258;ying hare,</line>
+<line>Or at the foxe which liues by &#383;ubtiltie,</line>
+<line>Or at the R&#339; which no incounter dare:</line>
+<couplet>
+<line>Pur&#383;ue the&#383;e fearfull creatures o&#8217;re the downes,</line>
+<line>And on thy wel breathd hor&#383;e keep with thy ho&#363;ds.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And when thou ha&#383;t on foote the purblind hare,</line>
+<line>Marke the poore wretch to ouer-&#383;hut his troubles,</line>
+<line>How he outruns the wind, and with what care,</line>
+<line>He crankes and cro&#383;&#383;es with a thou&#383;and doubles,</line>
+<couplet>
+<line>The many mu&#383;its through the which he g&#339;s,</line>
+<line>Are like a laberinth to amaze his f&#339;s.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Sometime he runnes among a &#64258;ocke of &#383;heepe,</line>
+<line>To make the cunning hounds mi&#383;take their &#383;mell,</line>
+<line>And &#383;ometime where earth-deluing Conies keepe,</line>
+<line>To &#383;top the loud pur&#383;uers in their yell:</line>
+<couplet>
+<line>And &#383;ometime &#383;orteth with a heard of deare,</line>
+<line>Danger deui&#383;eth &#383;hi&#64261;s, wit waites on feare.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For there his &#383;mell with others being mingled,</line>
+<line>The hot &#383;ent-&#383;nuf&#64257;ng hounds are driuen to doubt,</line>
+<line>Cea&#383;ing their clamorous cry, till they haue &#383;ingled</line>
+<line>VVith much ado the cold fault cleanly out,</line>
+<couplet>
+<line>Then do they &#383;pend their mouth&#8217;s, eccho replies,</line>
+<line>As if an other cha&#383;e were in the skies.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>By this poore wat farre off vpon a hill,</line>
+<line>Stands on his hinder-legs with li&#383;tning eare,</line>
+<line>To hearken if his f&#339;s pur&#383;ue him &#383;till,</line>
+<line>Anon their loud alarums he doth heare,</line>
+<couplet>
+<line>And now his griefe may be compared well,</line>
+<line>To one &#383;ore &#383;icke, that heares the pa&#383;&#383;ing bell.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Then &#383;halt thou &#383;ee the deaw-bedabbled wretch,</line>
+<line>Turne, and returne, indenting with the way,</line>
+<line>Ech enuious brier, his wearie legs do &#383;cratch,</line>
+<line>Ech &#383;hadow makes him &#383;top, ech murmour &#383;tay,</line>
+<couplet>
+<line>For mi&#383;erie is troden on by manie,</line>
+<line>And being low, neuer releeu&#8217;d by anie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Lye quietly, and heare a litle more,</line>
+<line>Nay do not &#383;truggle, for thou &#383;halt not ri&#383;e,</line>
+<line>To make thee hate the hunting of the bore,</line>
+<line>Vnlike my &#383;elfe thou hear&#8217;&#383;t me moralize,</line>
+<couplet>
+<line>Applying this to that, and &#383;o to &#383;o,</line>
+<line>For loue can comment vpon euerie wo.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhere did I leaue?no matter where (quoth he)</line>
+<line>Leaue me, and then the &#383;torie aptly ends,</line>
+<line>The night is &#383;pent; why what of that (quoth &#383;he?)</line>
+<line>I am (quoth he) expe&#392;ted of my friends,</line>
+<couplet>
+<line>And now tis darke, and going I &#383;hall fall.</line>
+<line>In night (quoth &#383;he) de&#383;ire &#383;ees be&#383;t of all.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>But if thou fall, oh then imagine this,</line>
+<line>The earth in loue with thee, thy footing trips,</line>
+<line>And all is but to rob thee of a kis,</line>
+<line>Rich prayes make true-men theeues: &#383;o do thy lips</line>
+<couplet>
+<line>Make mode&#383;t Dyan, cloudie and forlorne,</line>
+<line>Le&#383;t &#383;he &#383;hould &#383;teale a ki&#383;&#383;e and die for&#383;worne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now of this darke night I perceiue the rea&#383;on,</line>
+<line>Cinthia for&#383;hame, ob&#383;cures her &#383;iluer &#383;hine,</line>
+<line>Till forging nature be condemn&#8217;d of trea&#383;on,</line>
+<line>For &#383;tealing moulds from heauen, that were diuine,</line>
+<couplet>
+<line>VVherin &#383;he fram&#8217;d thee, in hie heauens de&#383;pight,</line>
+<line>To &#383;hame the &#383;unne by day, and her by night.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And therefore hath &#383;he brib&#8217;d the de&#383;tinies,</line>
+<line>To cro&#383;&#383;e the curious workman&#383;hip of nature,</line>
+<line>To mingle beautie with in&#64257;rmities,</line>
+<line>And pure perfe&#392;tion with impure defeature,</line>
+<couplet>
+<line>Making it &#383;ubie&#392;t to the tyrannie,</line>
+<line>Of mad mi&#383;chances, and much mi&#383;erie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>As burning feauers, agues pale, and faint,</line>
+<line>Life-poy&#383;oning pe&#383;tilence, and frendzies wood,</line>
+<line>The marrow-eating &#383;ickne&#383;&#383;e who&#383;e attaint,</line>
+<line>Di&#383;order breeds by heating of the blood,</line>
+<couplet>
+<line>Surfets, impo&#383;tumes, griefe, and damnd di&#383;paire,</line>
+<line>Sweare natures death, for framing thee &#383;o faire.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And not the lea&#383;t of all the&#383;e maladies,</line>
+<line>But in one minutes &#64257;ght brings beautie vnder,</line>
+<line>Both fauour, &#383;auour, hew, and qualities,</line>
+<line>VVhereat the th&#8217;impartiall gazer late did wonder,</line>
+<couplet>
+<line>Are on the &#383;udden wa&#383;ted, thawed, and donne,</line>
+<line>As mountain &#383;now melts with the midday &#383;onne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Therefore de&#383;pight of fruitle&#383;&#383;e cha&#383;titie,</line>
+<line>Loue-lacking ve&#383;tals, and &#383;elfe-louing Nuns,</line>
+<line>That on the earth would breed a &#383;carcitie,</line>
+<line>And barraine dearth of daughters, and of &#383;uns;</line>
+<couplet>
+<line>Be prodigall, the lampe that burnes by night,</line>
+<line>Dries vp his oyle, to lend the world his light.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhat is thy bodie but a &#383;wallowing graue,</line>
+<line>Seeming to burie that po&#383;teritie,</line>
+<line>VVhich by the rights of time thou needs mu&#383;t haue,</line>
+<line>If thou de&#383;troy them not in darke ob&#383;curitie?</line>
+<couplet>
+<line>If &#383;o the world will hold thee in di&#383;daine,</line>
+<line>Sith in thy pride, &#383;o faire a hope is &#383;laine.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>So in thy &#383;elfe, thy &#383;elfe art made away,</line>
+<line>A mi&#383;chiefe wor&#383;e then ciuill home-bred &#383;trife,</line>
+<line>Or theirs who&#383;e de&#383;perat hands them &#383;elues do &#383;lay,</line>
+<line>Or butcher &#383;ire, that reaues his &#383;onne of life:</line>
+<couplet>
+<line>Foule cankring ru&#383;t, the hidden trea&#383;ure frets,</line>
+<line>But gold that&#8217;s put to v&#383;e more gold begets.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Nay then (quoth Adon) you will fall againe,</line>
+<line>Into your idle ouer-handled theame,</line>
+<line>The ki&#383;&#383;e I gaue you is be&#383;tow&#8217;d in vaine,</line>
+<line>And all in vaine you &#383;triue again&#383;t the &#383;treame,</line>
+<couplet>
+<line>For by this black-fac&#8217;t night, de&#383;ires foule nour&#383;e,</line>
+<line>Your treati&#383;e makes me like you, wor&#383;e &amp; wor&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>If loue haue lent you twentie thou&#383;and tongues,</line>
+<line>And euerie tongue more mouing then your owne,</line>
+<line>Bewitching like the wanton Marmaids &#383;ongs,</line>
+<line>Yet from mine eare the tempting tune is blowne,</line>
+<couplet>
+<line>For know my heart &#383;tands armed in mine eare,</line>
+<line>And will not let a fal&#383;e &#383;ound enter there.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Le&#383;t the deceiuing harmonie &#383;hould ronne,</line>
+<line>Into the quiet clo&#383;ure of my bre&#383;t,</line>
+<line>And then my litle heart were quite vndone,</line>
+<line>In his bed-chamber to be bard of re&#383;t,</line>
+<couplet>
+<line>No Ladie no, my heart longs not to grone,</line>
+<line>But &#383;oundly &#383;leeps, while now it &#383;leeps alone.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhat haue you vrg&#8217;d, that I can not reproue?</line>
+<line>The path is &#383;mooth that leadeth on to danger,</line>
+<line>I hate not loue, but your deui&#383;e in loue,</line>
+<line>That lends imbracements vnto euery &#383;tranger,</line>
+<couplet>
+<line>You do it for increa&#383;e, &#244; &#383;traunge excu&#383;e!</line>
+<line>VVhen rea&#383;on is the bawd to lu&#383;ts abu&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Call it not loue, for loue to heauen is &#64258;ed,</line>
+<line>Since &#383;weating lu&#383;t on earth v&#383;urpt his name,</line>
+<line>Vnder who&#383;e &#383;imple &#383;emblance he hath fed,</line>
+<line>Vpon fre&#383;h beautie, blotting it with blame;</line>
+<couplet>
+<line>VVhich the hot tyrant &#383;taines, &amp; &#383;oone bereaues:</line>
+<line>As Caterpillers do the tender leaues.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Loue comforteth like &#383;un-&#383;hine a&#64261;er raine,</line>
+<line>But lu&#383;ts effe&#392;t is tempe&#383;t a&#64261;er &#383;unne,</line>
+<line>Loues gentle &#383;pring doth alwayes fre&#383;h remaine,</line>
+<line>Lu&#383;ts winter comes, ere &#383;ommer halfe be donne:</line>
+<couplet>
+<line>Loue &#383;urfets not, lu&#383;t like a glutton dies:</line>
+<line>Loue is all truth, lu&#383;t full of forged lies.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>More I could tell, but more I dare not &#383;ay,</line>
+<line>The text is old, the Orator too greene,</line>
+<line>Therefore in &#383;adne&#383;&#383;e, now I will away,</line>
+<line>My face is full of &#383;hame, my heart of teene,</line>
+<couplet>
+<line>Mine eares that to your wanton talke attended,</line>
+<line>Do burne them &#383;elues, for hauing &#383;o offended.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVith this he breaketh from the &#383;weet embrace,</line>
+<line>Of tho&#383;e faire armes which bound him to her bre&#383;t,</line>
+<line>And homeward through the dark lawnd runs apace,</line>
+<line>Leaues loue vpon her backe, deeply di&#383;tre&#383;t,</line>
+<couplet>
+<line>Looke how a bright &#383;tar &#383;hooteth from the skye;</line>
+<line>So glides he in the night from Venus eye.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhich a&#64261;er him &#383;he dartes, as one on &#383;hore</line>
+<line>Gazing vpon a late embarked friend,</line>
+<line>Till the wilde waues will haue him &#383;eene no more,</line>
+<line>VVho&#383;e ridges with the meeting cloudes contend:</line>
+<couplet>
+<line>So did the mercile&#383;&#383;e, and pitchie night,</line>
+<line>Fold in the obie&#392;t that did feed her &#383;ight.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhereat ama&#383;&#8217;d as one that vnaware,</line>
+<line>Hath dropt a precious iewell in the &#64258;ood,</line>
+<line>Or &#383;toni&#383;ht, as night wandrers o&#64261;en are,</line>
+<line>Their light blowne out in &#383;ome mi&#383;tru&#383;tfull wood;</line>
+<couplet>
+<line>Euen &#383;o confounded in the darke &#383;he lay,</line>
+<line>Hauing lo&#383;t the faire di&#383;couerie of her way.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And now &#383;he beates her heart, whereat it grones,</line>
+<line>That all the neighbour caues as &#383;eeming troubled,</line>
+<line>Make verball repetition of her mones,</line>
+<line>Pa&#383;&#383;ion on pa&#383;&#383;ion, deeply is redoubled,</line>
+<couplet>
+<line>Ay me, &#383;he cries, and twentie times, wo, wo,</line>
+<line>And twentie ecch&#339;s, twentie times crie &#383;o,</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>She marking them, begins a wailing note,</line>
+<line>And &#383;ings extemporally a wofull dittie,</line>
+<line>How loue makes yong-men thrall, &amp; old men note,</line>
+<line>How loue is wi&#383;e in follie, fooli&#383;h wittie:</line>
+<couplet>
+<line>Her heauie antheme &#383;till concludes in wo,</line>
+<line>And &#383;till the quier of ecch&#339;s an&#383;wer &#383;o.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Her &#383;ong was tedious, and out-wore the night,</line>
+<line>For louers houres are long, though &#383;eeming &#383;hort,</line>
+<line>If plea&#383;d them&#383;elues, others they thinke delight,</line>
+<line>In &#383;uch like circum&#383;tance, with &#383;uch like &#383;port:</line>
+<couplet>
+<line>Their copious &#383;tories o&#64261;entimes begunne,</line>
+<line>End without audience, and are neuer donne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For who hath &#383;he to &#383;pend the night withall,</line>
+<line>But idle &#383;ounds re&#383;embling para&#383;its?</line>
+<line>Like &#383;hrill-tongu&#8217;d Tap&#383;ters an&#383;wering euerie call,</line>
+<line>Soothing the humor of fanta&#383;tique wits,</line>
+<couplet>
+<line>She &#383;ayes tis &#383;o, they an&#383;wer all tis &#383;o,</line>
+<line>And would &#383;ay a&#64261;er her, if &#383;he &#383;aid no.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Lo here the gentle larke wearie of re&#383;t,</line>
+<line>From his moy&#383;t cabinet mounts vp on hie,</line>
+<line>And wakes the morning, from who&#383;e &#383;iluer bre&#383;t,</line>
+<line>The &#383;unne ari&#383;eth in his maie&#383;tie,</line>
+<couplet>
+<line>VVho doth the world &#383;o gloriou&#383;ly behold,</line>
+<line>That Ceader tops and hils, &#383;eeme burni&#383;ht gold.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Venus &#383;alutes him with this faire good morrow,</line>
+<line>Oh thou cleare god, and patron of all light,</line>
+<line>From whom ech lamp, and &#383;hining &#383;tar doth borrow,</line>
+<line>The beautious in&#64258;uence that makes him bright,</line>
+<couplet>
+<line>There liues a &#383;onne that &#383;uckt an earthly mother,</line>
+<line>May lend thee light, as thou d&#339;&#383;t lend to other.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This &#383;ayd, &#383;he ha&#383;teth to a mirtle groue,</line>
+<line>Mu&#383;ing the morning is &#383;o much ore-worne,</line>
+<line>And yet &#383;he heares no tidings of her loue;</line>
+<line>She harkens for his hounds, and for his horne,</line>
+<couplet>
+<line>Anon &#383;he heares them chaunt it lu&#383;tily,</line>
+<line>And all in ha&#383;t &#383;he coa&#383;teth to the cry.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And as &#383;he runnes, the bu&#383;hes in the way,</line>
+<line>Some catch her by the necke, &#383;ome ki&#383;&#383;e her face,</line>
+<line>Some twin&#8217;d about her thigh to make her &#383;tay,</line>
+<line>She wildly breaketh from their &#383;tri&#392;t imbrace,</line>
+<couplet>
+<line>Like a milch D&#339;, who&#383;e &#383;welling dugs do ake,</line>
+<line>Ha&#383;ting to feed her fawne, hid in &#383;ome brake,</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>By this &#383;he heares the hounds are at a bay,</line>
+<line>VVhereat &#383;he &#383;tarts like one that &#383;pies an adder,</line>
+<line>VVreath&#8217;d vp in fatall folds iu&#383;t in his way,</line>
+<line>The feare whereof doth make him &#383;hake, &amp; &#383;hudder,</line>
+<couplet>
+<line>Euen &#383;o the timerous yelping of the hounds,</line>
+<line>Appals her &#383;en&#383;es, and her &#383;pirit confounds.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>For now &#383;he knowes it is no gentle cha&#383;e,</line>
+<line>But the blunt boare, rough beare, or lyon proud,</line>
+<line>Becau&#383;e the crie remaineth in one place,</line>
+<line>VVhere fearefully the dogs exclaime aloud,</line>
+<couplet>
+<line>Finding their enemie to be &#383;o cur&#383;t,</line>
+<line>They all &#383;traine curt&#8217;&#383;ie who &#383;hall cope him &#64257;r&#383;t.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This di&#383;mall crie rings &#383;adly in her eare,</line>
+<line>Through which it enters to &#383;urpri&#383;e her hart,</line>
+<line>VVho ouercome by doubt, and bloodle&#383;&#383;e feare,</line>
+<line>VVith cold-pale weakene&#383;&#383;e, nums ech feeling part,</line>
+<couplet>
+<line>Like &#383;oldiers when their captain once doth yeeld,</line>
+<line>They ba&#383;ely &#64258;ie, and dare not &#383;tay the &#64257;eld.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thus &#383;tands &#383;he in a trembling exta&#383;ie,</line>
+<line>Till cheering vp her &#383;en&#383;es all di&#383;mayd,</line>
+<line>She tels them tis a cau&#383;le&#383;&#383;e fanta&#383;ie,</line>
+<line>And childi&#383;h error that they are affrayd,</line>
+<couplet>
+<line>Bids th&#275; leaue quaking, bids them feare no more,</line>
+<line>And with that word, &#383;he &#383;pide the hunted boare.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVho&#383;e frothie mouth bepainted all with red,</line>
+<line>Like milke, &amp; blood, being mingled both togither,</line>
+<line>A &#383;econd feare through all her &#383;inewes &#383;pred,</line>
+<line>VVhich madly hurries her, &#383;he knowes not whither,</line>
+<couplet>
+<line>This way &#383;he runs, and now &#383;he will no further,</line>
+<line>But backe retires, to rate the boare for murther.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>A thou&#383;and &#383;pleenes beare her a thou&#383;and wayes,</line>
+<line>She treads the path, that &#383;he vntreads againe;</line>
+<line>Her more then ha&#383;t, is mated with delayes,</line>
+<line>Like the proceedings of a drunken braine,</line>
+<couplet>
+<line>Full of re&#383;pe&#392;ts, yet naught at all re&#383;pe&#392;ting,</line>
+<line>In hand with all things, naught at all effe&#392;ting.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Here kenneld in a brake, &#383;he &#64257;nds a hound,</line>
+<line>And askes the wearie caitiffe for his mai&#383;ter,</line>
+<line>And there another licking of his wound,</line>
+<line>Gain&#383;t venimd &#383;ores, the onely &#383;oueraigne plai&#383;ter.</line>
+<couplet>
+<line>And here &#383;he meets another, &#383;adly &#383;kowling,</line>
+<line>To whom &#383;he &#383;peaks, &amp; he replies with howling.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhen he hath cea&#383;t his ill re&#383;ounding noi&#383;e,</line>
+<line>Another &#64258;apmouthd mourner, blacke, and grim,</line>
+<line>Again&#383;t the welkin, volies out his voyce,</line>
+<line>Another, and another, an&#383;wer him,</line>
+<couplet>
+<line>Clapping their proud tailes to the ground below,</line>
+<line>Shaking their &#383;cratcht-eares, bleeding as they go.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Looke how, the worlds poore people are amazed,</line>
+<line>At apparitions, &#383;ignes, and prodigies,</line>
+<line>VVhereon with feareful eyes, they long haue gazed,</line>
+<line>Infu&#383;ing them with dreadfull prophecies;</line>
+<couplet>
+<line>So &#383;he at the&#383;e &#383;ad &#383;ignes, drawes vp her breath,</line>
+<line>And &#383;ighing it againe, exclaimes on death.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Hard fauourd tyrant, ougly, meagre, leane,</line>
+<line>Hatefull diuorce of loue, (thus chides &#383;he death)</line>
+<line>Grim-grinning gho&#383;t, earths-worme what do&#383;t thou meane?</line>
+<line>To &#383;ti&#64258;e beautie, and to &#383;teale his breath?</line>
+<couplet>
+<line>VVho when he liu&#8217;d, his breath and beautie &#383;et</line>
+<line>Glo&#383;&#383;e on the ro&#383;e, &#383;mell to the violet.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>If he be dead, &#244; no, it cannot be,</line>
+<line>Seeing his beautie, thou &#383;hould&#383;t &#383;trike at it,</line>
+<line>Oh yes, it may, thou ha&#383;t no eyes to &#383;ee,</line>
+<line>But hatefully at randon d&#339;&#383;t thou hit,</line>
+<couplet>
+<line>Thy marke is feeble age, but thy fal&#383;e dart,</line>
+<line>Mi&#383;takes that aime, and cleaues an infants hart.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Had&#383;t thou but bid beware, then he had &#383;poke,</line>
+<line>And hearing him, thy power had lo&#383;t his power,</line>
+<line>The de&#383;tinies will cur&#383;e thee for this &#383;troke;</line>
+<line>They bid thee crop a weed, thou pluck&#383;t a &#64258;ower,</line>
+<couplet>
+<line>Loues golden arrow at him &#383;hould haue &#64258;ed,</line>
+<line>And not deaths ebon dart to &#383;trike him dead.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Do&#383;t thou drink tears, that thou prouok&#8217;&#383;t &#383;uch weeping,</line>
+<line>VVhat may a heauie grone aduantage thee?</line>
+<line>VVhy ha&#383;t thou ca&#383;t into eternall &#383;leeping,</line>
+<line>Tho&#383;e eyes that taught all other eyes to &#383;ee?</line>
+<couplet>
+<line>Now nature cares not for thy mortall vigour,</line>
+<line>Since her be&#383;t worke is ruin&#8217;d with thy rigour.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Here ouercome as one full of di&#383;paire,</line>
+<line>She vaild her eye-lids, who like &#383;luces &#383;topt</line>
+<line>The chri&#383;tall tide, that from her two cheeks faire,</line>
+<line>In the &#383;weet channell of her bo&#383;ome dropt.</line>
+<couplet>
+<line>But through the &#64258;oud-gates breaks the &#383;iluer rain,</line>
+<line>And with his &#383;trong cour&#383;e opens them againe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O how her eyes, and teares, did lend, and borrow,</line>
+<line>Her eye &#383;eene in the teares, teares in her eye,</line>
+<line>Both chri&#383;tals, where they viewd ech others &#383;orrow:</line>
+<line>Sorrow, that friendly &#383;ighs &#383;ought &#383;till to drye,</line>
+<couplet>
+<line>But like a &#383;tormie day, now wind, now raine,</line>
+<line>Sighs drie her cheeks, tears make th&#275; wet againe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Variable pa&#383;&#383;ions throng her con&#383;tant wo,</line>
+<line>As &#383;triuing who &#383;hould be&#383;t become her griefe,</line>
+<line>All entertaind, ech pa&#383;&#383;ion labours &#383;o,</line>
+<line>That euerie pre&#383;ent &#383;orrow &#383;eemeth chiefe,</line>
+<couplet>
+<line>But none is be&#383;t; then ioyne they all together,</line>
+<line>Like many clouds, con&#383;ulting for foule weather.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>By this farre off, &#383;he heares &#383;ome hunt&#383;man hallow,</line>
+<line>A nour&#383;es &#383;ong nere plea&#383;d her babe &#383;o well,</line>
+<line>The dyre imagination &#383;he did follow,</line>
+<line>This &#383;ound of hope doth labour to expell,</line>
+<couplet>
+<line>For now reuiuing ioy bids her reioyce.</line>
+<line>And &#64258;atters her, it is Adonis voyce.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhereat her teares began to turne their tide,</line>
+<line>Being pri&#383;ond in her eye: like pearles in gla&#383;&#383;e,</line>
+<line>Yet &#383;ometimes fals an orient drop be&#383;ide,</line>
+<line>VVhich her cheeke melts, as &#383;corning it &#383;hould pa&#383;&#383;e</line>
+<couplet>
+<line>To wa&#383;h the foule face of the &#383;lutti&#383;h ground,</line>
+<line>VVho is but dronken when &#383;he &#383;eemeth drownd.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O hard beleeuing loue how &#383;trange it &#383;eemes!</line>
+<line>Not to beleeue, and yet too credulous:</line>
+<line>Thy weale and wo, are both of them extreames,</line>
+<line>De&#383;paire, and hope, makes thee ridiculous.</line>
+<couplet>
+<line>The one doth &#64258;atter thee in thoughts vnlikely,</line>
+<line>In likely thoughts the other kils thee quickly.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Now &#383;he vnweaues the web that &#383;he hath wrought,</line>
+<line>Adonis liues, and death is not to blame:</line>
+<line>It was not &#383;he that cald him all to nought;</line>
+<line>Now &#383;he ads honours to his hatefull name.</line>
+<couplet>
+<line>She clepes him king of graues, &amp; graue for kings,</line>
+<line>Imperious &#383;upreme of all mortall things.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>No, no, quoth &#383;he, &#383;weet death, I did but ie&#383;t,</line>
+<line>Yet pardon me, I felt a kind of feare</line>
+<line>VVhen as I met the boare, that bloodie bea&#383;t,</line>
+<line>VVhich knowes no pitie but is &#383;till &#383;euere,</line>
+<couplet>
+<line>Then gentle &#383;hadow (truth I mu&#383;t confe&#383;&#383;e)</line>
+<line>Irayld on thee, fearing my loues dece&#383;&#383;e.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Tis not my fault, the Bore prouok&#8217;t my tong,</line>
+<line>Be wreak&#8217;t on him (inui&#383;ible commaunder)</line>
+<line>Tis he foule creature, that hath done thee wrong,</line>
+<line>I did but a&#392;t, he&#8217;s author of thy &#383;launder</line>
+<couplet>
+<line>Greefe hath two tongues, and neuer woman yet,</line>
+<line>Could rule them both, without ten womens wit.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thus hoping that Adonis is aliue,</line>
+<line>Her ra&#383;h &#383;u&#383;pe&#392;t &#383;he doth extenuate,</line>
+<line>And that his beautie may the better thriue,</line>
+<line>VVith death &#383;he humbly doth in&#383;inuate.</line>
+<couplet>
+<line>Tels him of trophies, &#383;tatues, tombes, and &#383;tories,</line>
+<line>His vi&#392;tories, his triumphs, and his glories.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>O loue quoth &#383;he, how much a foole was I,</line>
+<line>To be of &#383;uch a weake and &#383;illie mind,</line>
+<line>To waile his death who liues, and mu&#383;t not die,</line>
+<line>Till mutuall ouerthrow of mortall kind?</line>
+<couplet>
+<line>For he being dead, with him is beautie &#383;laine,</line>
+<line>And beautie dead, blacke Chaos comes againe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Fy, fy, fond loue, thou art as full of feare,</line>
+<line>As one with trea&#383;ure laden, hem&#8217;d with theeues,</line>
+<line>Tri&#64258;es vnwitne&#383;&#383;ed with eye, or eare,</line>
+<line>Thy coward heart with fal&#383;e bethinking greeues.</line>
+<couplet>
+<line>Euen at this word &#383;he heares a merry horne,</line>
+<line>VVhereat &#383;he leaps, that was but late forlorne.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>As Faulcons to the lure, away &#383;he &#64258;ies,</line>
+<line>The gra&#383;&#383;e &#383;toops not, &#383;he treads on it &#383;o light,</line>
+<line>And in her ha&#383;t, vnfortunately &#383;pies,</line>
+<line>The foule boares conque&#383;t, on her faire delight,</line>
+<couplet>
+<line>VVhich &#383;eene, her eyes are murdred with the view,</line>
+<line>Like &#383;tars a&#383;ham&#8217;d of day, them&#383;elues withdrew.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Or as the &#383;naile, who&#383;e tender hornes being hit,</line>
+<line>Shrinks backward in his &#383;hellie caue with paine,</line>
+<line>And, there all &#383;moothred vp, in &#383;hade doth &#383;it,</line>
+<line>Long a&#64261;er fearing to creepe forth againe:</line>
+<couplet>
+<line>So at his bloodie view her eyes are &#64258;ed,</line>
+<line>Into the deep-darke cabbins of her head.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhere they re&#383;igne their of&#64257;ce, and their light,</line>
+<line>To the di&#383;po&#383;ing of her troubled braine,</line>
+<line>VVho bids them &#383;till con&#383;ort with ougly night,</line>
+<line>And neuer wound the heart with lookes againe,</line>
+<couplet>
+<line>VVho like a king perplexed in his throne,</line>
+<line>By their &#383;ugge&#383;tion, giues a deadly grone.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhereat ech tributarie &#383;ubie&#392;t quakes,</line>
+<line>As when the wind impri&#383;ond in the ground,</line>
+<line>Struggling for pa&#383;&#383;age, earths foundation &#383;hakes,</line>
+<line>which with cold terror, doth mens minds confound:</line>
+<couplet>
+<line>This mutinie ech part doth &#383;o &#383;urpri&#383;e,</line>
+<line>That fr&#333; their dark beds once more leap her eies.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And being opend, threw vnwilling light,</line>
+<line>Vpon the wide wound, that the boare had trencht</line>
+<line>In his &#383;o&#64261; &#64258;anke, who&#383;e wonted lillie white</line>
+<line>VVith purple tears that his wound wept, was dr&#275;cht.</line>
+<couplet>
+<line>No &#64258;oure was nigh, no gra&#383;&#383;e, hearb, leaf, or weed,</line>
+<line>But &#383;tole his blood, and &#383;eemd with him to bleed.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>This &#383;olemne &#383;ympathie, poore Venus noteth,</line>
+<line>Ouer one &#383;houlder doth &#383;he hang her head,</line>
+<line>Dumblie &#383;he pa&#383;&#383;ions, frantikely &#383;he doteth,</line>
+<line>She thinkes he could not die, he is not dead,</line>
+<couplet>
+<line>Her voice is &#383;topt, her ioynts forget to bow,</line>
+<line>Her eyes are mad, that they haue wept till now.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Vpon his hurt &#383;he lookes &#383;o &#383;tedfa&#383;tly,</line>
+<line>That her &#383;ight dazling, makes the wound &#383;eem three,</line>
+<line>And then &#383;he reprehends her mangling eye,</line>
+<line>That makes more ga&#383;hes, where no breach &#383;huld be:</line>
+<couplet>
+<line>His face &#383;eems twain, ech &#383;euerall lim is doubled,</line>
+<line>For o&#64261; the eye mi&#383;takes, the brain being troubled.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>My tongue cannot expre&#383;&#383;e my griefe for one,</line>
+<line>And yet (quoth &#383;he) behold two Adons dead,</line>
+<line>My &#383;ighes are blowne away, my &#383;alt teares gone,</line>
+<line>Mine eyes are turn&#8217;d to &#64257;re, my heart to lead,</line>
+<couplet>
+<line>Heauie hearts lead melt at mine eyes red &#64257;re,</line>
+<line>So &#383;hall I die by drops of hot de&#383;ire.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Alas poore world what trea&#383;ure ha&#383;t thou lo&#383;t,</line>
+<line>VVhat face remains aliue that&#8217;s worth the viewing?</line>
+<line>VVho&#383;e tongue is mu&#383;ick now? what c&#257;&#383;t thou boa&#383;t,</line>
+<line>Of things long &#383;ince, or any thing in&#383;uing?</line>
+<couplet>
+<line>The &#64258;owers are &#383;weet, their colours fre&#383;h, and trim,</line>
+<line>But true &#383;weet beautie liu&#8217;d and di&#8217;de with him.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Bonnet, nor vaile henceforth no creature weare,</line>
+<line>Nor &#383;unne, nor wind will euer &#383;triue to ki&#383;&#383;e you,</line>
+<line>Hauing no faire to lo&#383;e, you need not feare,</line>
+<line>The &#383;un doth skorne you, &amp; the wind doth hi&#383;&#383;e you.</line>
+<couplet>
+<line>But when Adonis liu&#8217;de, &#383;unne, and &#383;harpe aire,</line>
+<line>Lurkt like two theeues, to rob him of his faire.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>And therefore would he put his bonnet on,</line>
+<line>Vnder who&#383;e brim the gaudie &#383;unne would peepe,</line>
+<line>The wind would blow it off, and being gon,</line>
+<line>Play with his locks, then would Adonis weepe.</line>
+<couplet>
+<line>And &#383;traight in pittie of his tender yeares,</line>
+<line>They both would &#383;triue who &#64257;r&#383;t &#383;hould drie his teares.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>To &#383;ee his face the Lion walkt along</line>
+<line>Behind &#383;ome hedge, becau&#383;e he would not fear him:</line>
+<line>To recreate him&#383;elf when he hath &#383;ong,</line>
+<line>The Tygre would be tame, and gently heare him.</line>
+<couplet>
+<line>If he had &#383;poke; the wolfe would leaue his praie,</line>
+<line>And neuer fright the &#383;illie lambe that daie.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>VVhen he beheld his &#383;hadow in the brooke;</line>
+<line>The &#64257;&#383;hes &#383;pread on it their golden gils,</line>
+<line>VVhen he was by the birds &#383;uch plea&#383;ure tooke,</line>
+<line>That &#383;ome would &#383;ing, &#383;ome other in their bils</line>
+<couplet>
+<line>VVould bring him mulberries &amp; ripe-red cherries,</line>
+<line>He fed them with his &#383;ight, they him with berries.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>But this foule, grim, and vrchin-&#383;nowted Boare,</line>
+<line>VVho&#383;e downeward eye &#383;till looketh for a graue:</line>
+<line>Ne&#8217;re &#383;aw the beautious liuerie that he wore,</line>
+<line>VVitne&#383;&#383;e the intertainment that he gaue.</line>
+<couplet>
+<line>If he did &#383;ee his face, why then I know,</line>
+<line>He thought to ki&#383;&#383;e him, and hath kild him &#383;o.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Tis true, tis true, thus was Adonis &#383;laine,</line>
+<line>He ran vpon the Boare with his &#383;harpe &#383;peare,</line>
+<line>VVho did not whet his teeth at him againe,</line>
+<line>But by a ki&#383;&#383;e thought to per&#383;uade him there.</line>
+<couplet>
+<line>And nou&#383;ling in his &#64258;anke the louing &#383;wine,</line>
+<line>Sheath&#8217;d vnaware the tuske in his &#383;o&#64261; groine.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Had I bin tooth&#8217;d like him I mu&#383;t confe&#383;&#383;e,</line>
+<line>VVith ki&#383;&#383;ing him I &#383;hould haue kild him &#64257;r&#383;t,</line>
+<line>But he is dead, and neuer did he ble&#383;&#383;e</line>
+<line>My youth with his, the more am I accur&#383;t.</line>
+<couplet>
+<line>VVith this &#383;he falleth in the place &#383;he &#383;tood,</line>
+<line>And &#383;taines her face with his congealed bloud.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>She lookes vpon his lips, and they are pale,</line>
+<line>She takes him by the hand, and that is cold,</line>
+<line>She whi&#383;pers in his eares a heauie tale,</line>
+<line>As if they heard the wofull words &#383;he told:</line>
+<couplet>
+<line>She li&#64261;s the coffer-lids that clo&#383;e his eyes,</line>
+<line>VVhere lo, two lamps burnt out in darkne&#383;&#383;e lies.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Two gla&#383;&#383;es where her &#383;elfe, her &#383;elfe beheld</line>
+<line>A thou&#383;and times, and now no more re&#64258;e&#392;t,</line>
+<line>Their vertue lo&#383;t, wherein they late exceld,</line>
+<line>And euerie beautie robd of his effe&#392;t;</line>
+<couplet>
+<line>VVonder of time (quoth &#383;he) this is my &#383;pight,</line>
+<line>That thou being dead, the day &#383;huld yet be light.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Since thou art dead, lo here I prophecie,</line>
+<line>Sorrow on loue herea&#64261;er &#383;hall attend:</line>
+<line>It &#383;hall be wayted on with iealou&#383;ie,</line>
+<line>Find &#383;weet beginning, but vn&#383;auorie end.</line>
+<couplet>
+<line>Nere &#383;etled equally, but high or lo,</line>
+<line>That all loues plea&#383;ure &#383;hall not match his wo.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>It &#383;hall be &#64257;ckle, fal&#383;e, and full of fraud,</line>
+<line>Bud, and be bla&#383;ted, in a breathing while,</line>
+<line>The bottome poy&#383;on, and the top ore-&#383;trawd</line>
+<line>VVith &#383;weets, that &#383;hall the true&#383;t &#383;ight beguile,</line>
+<couplet>
+<line>The &#383;tronge&#383;t bodie &#383;hall it make mo&#383;t weake,</line>
+<line>Strike the wi&#383;e d&#363;be, &amp; teach the foole to &#383;peake.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>It &#383;hall be &#383;paring, and too full of ryot,</line>
+<line>Teaching decrepit age to tread the mea&#383;ures,</line>
+<line>The &#383;taring ruf&#64257;an &#383;hall it keepe in quiet,</line>
+<line>Pluck down the rich, inrich the poore with trea&#383;ures,</line>
+<couplet>
+<line>It &#383;hall be raging mad, and &#383;illie milde,</line>
+<line>Make the yoong old, the old become a childe.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>It &#383;hall &#383;u&#383;pe&#392;t where is no cau&#383;e of feare,</line>
+<line>It &#383;hall not feare where it &#383;hould mo&#383;t mi&#383;tru&#383;t,</line>
+<line>It &#383;hall be mercifull, and too &#383;eueare,</line>
+<line>And mo&#383;t deceiuing, when it &#383;eemes mo&#383;t iu&#383;t,</line>
+<couplet>
+<line>Peruer&#383;e it &#383;hall be, where it &#383;howes mo&#383;t toward,</line>
+<line>Put feare to valour, courage to the coward.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>It &#383;hall be cau&#383;e of warre, and dire euents,</line>
+<line>And &#383;et di&#383;&#383;ention twixt the &#383;onne, and &#383;ire,</line>
+<line>Subie&#392;t, and &#383;eruill to all di&#383;contents:</line>
+<line>As drie combu&#383;tious matter is to &#64257;re,</line>
+<couplet>
+<line>Sith in his prime, death doth my loue de&#383;troy,</line>
+<line>They that loue be&#383;t, their loues &#383;hall not enioy.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>By this the boy that by her &#383;ide laie kild,</line>
+<line>VVas melted like a vapour from her &#383;ight,</line>
+<line>And in his blood that on the ground lay &#383;pild,</line>
+<line>A purple &#64258;ower &#383;prung vp, checkred with white,</line>
+<couplet>
+<line>Re&#383;embling well his pale cheekes and the blood</line>
+<line>VVhich in round drops, vp&#333; their whitene&#383;&#383;e &#383;tood.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>She bowes her head, the new-&#383;prong &#64258;oure to &#383;mel,</line>
+<line>Comparing it to her Adonis breath,</line>
+<line>And &#383;aies within her bo&#383;ome it &#383;hall dwell,</line>
+<line>Since he him&#383;elfe is re&#64261; from her by death;</line>
+<couplet>
+<line>She crop&#8217;s the &#383;talke, and in the breach appeares,</line>
+<line>Green-dropping &#383;ap, which &#383;he c&#333;pares to teares.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Poore &#64258;oure (quoth &#383;he) this was thy fathers gui&#383;e,</line>
+<line>Sweet i&#383;&#383;ue of a more &#383;weet &#383;melling &#383;ire,</line>
+<line>For euerie little griefe to wet his eies,</line>
+<line>To grow vnto him&#383;elfe was his de&#383;ire;</line>
+<couplet>
+<line>And &#383;o tis thine, but know it is as good,</line>
+<line>To wither in my bre&#383;t, as in his blood.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Here was thy fathers bed, here in my bre&#383;t,</line>
+<line>Thou art the next of blood, and tis thy right.</line>
+<line>Lo in this hollow cradle take thy re&#383;t,</line>
+<line>My throbbing hart &#383;hall rock thee day and night;</line>
+<couplet>
+<line>There &#383;hall not be one minute in an houre,</line>
+<line>VVherein I wil not ki&#383;&#383;e my &#383;weet loues &#64258;oure.</line>
+</couplet>
+</stanza>
+
+<stanza>
+<line>Thus weary of the world, away &#383;he hies,</line>
+<line>And yokes her &#383;iluer doues, by who&#383;e &#383;wi&#64261; aide,</line>
+<line>Their mi&#383;tre&#383;&#383;e mounted through the emptie skies,</line>
+<line>In her light chariot, quickly is conuaide,</line>
+<couplet>
+<line>Holding their cour&#383;e to Paphos, where their queen,</line>
+<line>Meanes to immure her &#383;elfe, and not be &#383;een.</line>
+</couplet>
+</stanza>
+
+<finistitle>FINIS</finistitle>
+</poembody>
+
+<sourcedetails>
+<author>PlayShakespeare.com</author>
+<authorurl>http://www.playshakespeare.com</authorurl>
+<copyright>2005-2014 by PlayShakespeare.com</copyright>
+<version>3.1</version>
+<license>GFDL License 1.3</license>
+<licenseurl>http://www.gnu.org/copyleft/fdl.html</licenseurl>
+<termsurl>http://www.playshakespeare.com/about-us</termsurl>
+</sourcedetails>
+
+</poem>
+
