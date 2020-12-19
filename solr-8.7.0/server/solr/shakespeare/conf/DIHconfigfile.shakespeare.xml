@@ -4,15 +4,15 @@
   />
   <document>
 
-    <entity name="f" processor="FileListEntityProcessor"
+    <entity name="plays" processor="FileListEntityProcessor"
             fileName=".*xml"
             recursive="true"
             rootEntity="false"
             dataSource="null"
-            baseDir="/home/dan/go/src/github.com/ProlificLabs/shakesearch/PlayShakespeare.com-XML/playshakespeare_editions/" >
+            baseDir="../../PlayShakespeare.com-XML/playshakespeare_editions/" >
 
       <entity name="shakespeare"
-              url="${f.fileAbsolutePath}"
+              url="${plays.fileAbsolutePath}"
               stream="true"
               processor="XPathEntityProcessor"
               forEach="/play|/play/act|/play/act/scene/speech/line"

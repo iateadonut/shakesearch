@@ -451,27 +451,21 @@
   <field name="_root_" type="string" docValues="false" indexed="true" stored="false"/>
   <field name="_text_" type="text_general" multiValued="true" indexed="true" stored="false"/>
   <field name="_version_" type="plong" indexed="false" stored="false"/>
-  
-  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
-
-  <field name="play_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  <field name="category" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="act" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="act_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="actnum" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="category" type="text_en" uninvertible="true" indexed="true" stored="true"/>
+  <field name="form" type="text_en" uninvertible="true" indexed="true" stored="true"/>
+  <field name="globalnumber" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
+  <field name="line" type="text_en" uninvertible="true" indexed="true" stored="true"/>
+  <field name="line_number" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="offset" type="plong" uninvertible="true" indexed="true" stored="true"/>
+  <field name="play_title" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="scene_num" type="plong" uninvertible="true" indexed="true" stored="true"/>
   <field name="scenetitle" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  
-  <field name="line" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-
   <field name="speaker" type="text_en" uninvertible="true" indexed="true" stored="true"/>
   <field name="speaker_long" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-
-  <field name="globalnumber" type="plong" uninvertible="true" indexed="true" stored="true"/>
-  <field name="line_number" type="plong" uninvertible="true" indexed="true" stored="true"/>
-  <field name="form" type="text_en" uninvertible="true" indexed="true" stored="true"/>
-  <field name="offset" type="plong" uninvertible="true" indexed="true" stored="true"/>
-
   <dynamicField name="*_txt_en_split_tight" type="text_en_splitting_tight" indexed="true" stored="true"/>
   <dynamicField name="*_descendent_path" type="descendent_path" indexed="true" stored="true"/>
   <dynamicField name="*_ancestor_path" type="ancestor_path" indexed="true" stored="true"/>
@@ -541,4 +535,6 @@
   <dynamicField name="*_f" type="pfloat" indexed="true" stored="true"/>
   <dynamicField name="*_d" type="pdouble" indexed="true" stored="true"/>
   <dynamicField name="*_p" type="location" indexed="true" stored="true"/>
+  <copyField source="line" dest="_text_"/>
+  <copyField source="*" dest="_text_"/>
 </schema>
