@@ -1,4 +1,13 @@
-# apache solr
+## Working version
+
+https://lit-anchorage-03612.herokuapp.com/ - Try searching "oh my sons horatio" for a set of results.
+
+## Next steps (also, "If I had more time...")
+
+- Click the line and it brings you to that place in the poem/play.
+- Improve search engine algorithm.  Modern readers may expect to see 'O' when they type 'Oh', which is already built in.  What else might they want?
+
+## apache solr
 
 This is clearly a task for a search engine.
 
