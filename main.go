@@ -4,24 +4,26 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"index/suffixarray"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
 )
 
+const (
+	solrPort    = "8983"
+	solrAddress = "http://127.0.0.1"
+	solrCore    = "shakespeare"
+)
+
 func main() {
-	searcher := Searcher{}
-	err := searcher.Load("completeworks.txt")
-	if err != nil {
-		log.Fatal(err)
-	}
+
+	//http://127.0.0.1:8983/solr/shakespeare/select?q=oh%20my%20son
 
 	fs := http.FileServer(http.Dir("./static"))
 	http.Handle("/", fs)
 
-	http.HandleFunc("/search", handleSearch(searcher))
+	http.HandleFunc("/search", handleSearch())
 
 	port := os.Getenv("PORT")
 	if port == "" {
@@ -29,18 +31,13 @@ func main() {
 	}
 
 	fmt.Printf("Listening on port %s...", port)
-	err = http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
+	err := http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
 	if err != nil {
 		log.Fatal(err)
 	}
 }
 
-type Searcher struct {
-	CompleteWorks string
-	SuffixArray   *suffixarray.Index
-}
-
-func handleSearch(searcher Searcher) func(w http.ResponseWriter, r *http.Request) {
+func handleSearch() func(w http.ResponseWriter, r *http.Request) {
 	return func(w http.ResponseWriter, r *http.Request) {
 		query, ok := r.URL.Query()["q"]
 		if !ok || len(query[0]) < 1 {
@@ -48,7 +45,8 @@ func handleSearch(searcher Searcher) func(w http.ResponseWriter, r *http.Request
 			w.Write([]byte("missing search query in URL params"))
 			return
 		}
-		results := searcher.Search(query[0])
+		results := json.RawMessage(Search(query[0]))
+		fmt.Println(results)
 		buf := &bytes.Buffer{}
 		enc := json.NewEncoder(buf)
 		err := enc.Encode(results)
@@ -62,21 +60,16 @@ func handleSearch(searcher Searcher) func(w http.ResponseWriter, r *http.Request
 	}
 }
 
-func (s *Searcher) Load(filename string) error {
-	dat, err := ioutil.ReadFile(filename)
+func Search(query string) string {
+	fmt.Println(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
+	resp, err := http.Get(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
 	if err != nil {
-		return fmt.Errorf("Load: %w", err)
+		print(err)
 	}
-	s.CompleteWorks = string(dat)
-	s.SuffixArray = suffixarray.New(dat)
-	return nil
-}
-
-func (s *Searcher) Search(query string) []string {
-	idxs := s.SuffixArray.Lookup([]byte(query), -1)
-	results := []string{}
-	for _, idx := range idxs {
-		results = append(results, s.CompleteWorks[idx-250:idx+250])
+	defer resp.Body.Close()
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		print(err)
 	}
-	return results
+	return string(body)
 }
