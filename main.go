@@ -46,7 +46,7 @@ func handleSearch() func(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		results := json.RawMessage(Search(query[0]))
-		fmt.Println(results)
+		//fmt.Println(results)
 		buf := &bytes.Buffer{}
 		enc := json.NewEncoder(buf)
 		err := enc.Encode(results)
@@ -61,8 +61,22 @@ func handleSearch() func(w http.ResponseWriter, r *http.Request) {
 }
 
 func Search(query string) string {
-	fmt.Println(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
-	resp, err := http.Get(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
+	//fmt.Println(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
+
+	req, err := http.NewRequest("GET", fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query), nil)
+	if err != nil {
+		log.Print(err)
+		os.Exit(1)
+	}
+
+	q := req.URL.Query()
+	q.Add("q", query)
+
+	req.URL.RawQuery = q.Encode()
+
+	fmt.Println(req.URL.String())
+
+	resp, err := http.Get(req.URL.String())
 	if err != nil {
 		print(err)
 	}
@@ -71,5 +85,6 @@ func Search(query string) string {
 	if err != nil {
 		print(err)
 	}
+	fmt.Println(string(body))
 	return string(body)
 }

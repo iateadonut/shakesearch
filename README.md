@@ -1,8 +1,27 @@
 # apache solr
 
+This is clearly a task for a search engine.
+
 download here: https://www.apache.org/dyn/closer.lua/lucene/solr/8.7.0/solr-8.7.0.tgz
 
+from webroot:
+wget https://downloads.apache.org/lucene/solr/8.7.0/solr-8.7.0.tgz
+
+tar xf solr-8.7.0.tgz
+
+bin/solr delete -c shakespeare
+
 bin/solr create -c shakespeare
+
+git checkout solr-8.7.0/server/solr/shakespeare/conf/synonyms.txt solr-8.7.0/server/solr/shakespeare/conf/DIHconfigfile.shakespeare.xml solr-8.7.0/server/solr/shakespeare/conf/managed-schema solr-8.7.0/server/solr/shakespeare/conf/solrconfig.xml
+
+to import:
+curl -X POST -H 'Content-Type: application/json' http://localhost:8983/solr/shakespeare/dataimport?command=full-import
+
+to delete before re-importing:
+curl -X POST -H 'Content-Type: application/json' --data-binary '{"delete":{"query":"*:*" }}' http://localhost:8983/solr/shakespeare/update
+
+modify the synonyms file:  Maybe the modern english-speaker would think that "o" and "oh" are the same words?  We want her to find "o, my son" if she searches "oh my son".
 
 # ShakeSearch
 
