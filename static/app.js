@@ -12,6 +12,7 @@ const Controller = {
 
   updateTable: (results) => {
     const table = document.getElementById("table-body");
+    table.innerHTML = "";
     const rows = [];
     console.log(results['response']['docs']);
     for (let result of results['response']['docs']) {
