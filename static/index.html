@@ -6,6 +6,14 @@
   <title>i ate a donut's ShakeSearch implementation</title>
   <link rel="stylesheet" href="style.css">
   <meta name="theme-color" content="#fafafa">
+
+  <style>
+    .pagination {
+      color:blue;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  </style>
 </head>
 
 <body>
@@ -18,7 +26,7 @@
     </p>
     <p><span id="number-results-found"></span></p>
 
-    <p><span id="page-back"></span> <span id="page-number"></span> <span id="page-forward"></span></p>
+    <p><span id="page-back" class='pagination'></span> <span id="page-number"></span> <span id="page-forward" class='pagination'></span></p>
     <p>
         <table id="table">
           <tbody id="table-body"></tbody>

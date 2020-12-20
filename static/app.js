@@ -51,7 +51,7 @@ const Controller = {
     //console.log( Math.ceil(numFound/10) + ' ' + page );
     if( Math.ceil(numFound/10) > page )
       pageForward.innerHTML = ' | NEXT >';
-    pageNumber.innerHTML = 'Page: '+page;
+    pageNumber.innerHTML = ' Page: '+page;
 
     Controller.bindPages();
 
