@@ -12,7 +12,7 @@ import (
 
 const (
 	solrPort    = "8983"
-	solrAddress = "http://127.0.0.1"
+	solrAddress = "http://solr.100wires.com"
 	solrCore    = "shakespeare"
 )
 
