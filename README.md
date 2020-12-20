@@ -51,11 +51,9 @@ exact matches.
 Improve the search backend. Think about the problem from the user's perspective
 and prioritize your changes according to what you think is most useful.
 
-## Submission
-
-1. Fork this repository and send us a link to your fork after pushing your changes. 
-2. Heroku hosting - The project includes a Heroku Procfile and, in its
+To submit your solution, fork this repository and send us a link to your fork
+after pushing your changes. The project includes a Heroku Procfile and, in its
 current state, can be deployed easily on Heroku's free tier.
-3. In your submission, share with us what changes you made and how you would prioritize changes if you had more time.
 
-
+If you are stronger on the front-end, complete the react-prompt.md in this
+folder.
