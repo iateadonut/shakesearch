@@ -7,7 +7,9 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
 	"os"
+	"strconv"
 )
 
 const (
@@ -45,7 +47,17 @@ func handleSearch() func(w http.ResponseWriter, r *http.Request) {
 			w.Write([]byte("missing search query in URL params"))
 			return
 		}
-		results := json.RawMessage(Search(query[0]))
+		page, ok := r.URL.Query()["page"]
+		if !ok || len(query[0]) < 1 {
+
+		}
+		pageNumber, error := strconv.Atoi(page[0])
+		if error != nil {
+			w.WriteHeader(http.StatusInternalServerError)
+			w.Write([]byte("encoding failure"))
+			pageNumber = 0
+		}
+		results := json.RawMessage(Search(query[0], pageNumber))
 		//fmt.Println(results)
 		buf := &bytes.Buffer{}
 		enc := json.NewEncoder(buf)
@@ -60,23 +72,15 @@ func handleSearch() func(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-func Search(query string) string {
-	//fmt.Println(fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query))
+func Search(query string, page int) string {
 
-	req, err := http.NewRequest("GET", fmt.Sprintf("%s:%s/solr/%s/select?q=%s", solrAddress, solrPort, solrCore, query), nil)
-	if err != nil {
-		log.Print(err)
-		os.Exit(1)
-	}
+	baseURL := fmt.Sprintf("%s:%s/solr/%s/select?start=%d&", solrAddress, solrPort, solrCore, page*10)
+	params := url.Values{}
+	params.Add("q", query)
 
-	q := req.URL.Query()
-	q.Add("q", query)
+	fmt.Println(baseURL + params.Encode())
 
-	req.URL.RawQuery = q.Encode()
-
-	fmt.Println(req.URL.String())
-
-	resp, err := http.Get(req.URL.String())
+	resp, err := http.Get(baseURL + params.Encode())
 	if err != nil {
 		print(err)
 	}
@@ -87,4 +91,5 @@ func Search(query string) string {
 	}
 	fmt.Println(string(body))
 	return string(body)
+
 }
